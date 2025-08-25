@@ -1,10 +1,10 @@
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { AnimatePresence } from "framer-motion";
 import { PhotoCard } from "./PhotoCard";
 import { Lightbox } from "./Lightbox";
-import { downloadImage } from "@/lib/utils";
+import { downloadImage, cn } from "@/lib/utils";
 import { Loader2 } from "lucide-react";
 
 import type { Photo } from "@/lib/photo-types";
@@ -89,31 +89,27 @@ export function PhotoGrid({ photos, initialCategory = "all" }: PhotoGridProps) {
   return (
     <>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <motion.div
-          layout
-          className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"
-        >
-          <AnimatePresence mode="popLayout">
-            {visiblePhotos.map((photo, index) => (
-              <PhotoCard
-                key={photo.id}
-                photo={photo}
-                index={index}
-                onClick={() => handlePhotoClick(photo, index)}
-                onDownload={() => handleDownload(photo)}
-              />
-            ))}
-          </AnimatePresence>
-        </motion.div>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+          {visiblePhotos.map((photo, index) => (
+            <PhotoCard
+              key={photo.id}
+              photo={photo}
+              index={index}
+              onClick={() => handlePhotoClick(photo, index)}
+              onDownload={() => handleDownload(photo)}
+            />
+          ))}
+        </div>
 
-        {loadingMore && (
-          <div className="flex justify-center items-center py-12">
-            <Loader2 className="w-8 h-8 text-stone-400 animate-spin" />
-          </div>
-        )}
+        <div className={cn(
+          "flex justify-center items-center py-12 transition-opacity duration-300",
+          loadingMore ? "opacity-100" : "opacity-0 h-0 py-0 overflow-hidden"
+        )}>
+          <Loader2 className="w-8 h-8 text-stone-400 animate-spin" />
+        </div>
 
         {!hasMore && visiblePhotos.length > 0 && (
-          <div className="text-center py-12">
+          <div className="text-center py-12 transition-all duration-500">
             <p className="text-stone-500">
               {"You've reached the end of the gallery (" +
                 visiblePhotos.length +

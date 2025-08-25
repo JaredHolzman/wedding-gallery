@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import Image from "next/image";
-import { motion } from "framer-motion";
 import { Download, Maximize2, Heart } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useIntersectionObserver } from "@/lib/hooks/useIntersectionObserver";
@@ -25,20 +24,20 @@ export function PhotoCard({
   const [isLoaded, setIsLoaded] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
   const [ref, entry] = useIntersectionObserver<HTMLDivElement>({
-    threshold: 0.1,
-    rootMargin: "50px",
+    threshold: 0,
+    rootMargin: "100px",
     freezeOnceVisible: true,
   });
 
   const isVisible = entry?.isIntersecting;
 
   return (
-    <motion.div
+    <div
       ref={ref}
-      initial={{ opacity: 0, y: 20 }}
-      animate={{ opacity: isVisible ? 1 : 0, y: isVisible ? 0 : 20 }}
-      transition={{ duration: 0.5, delay: index * 0.05 }}
-      className="relative group cursor-pointer overflow-hidden rounded-lg bg-stone-100"
+      className={cn(
+        "relative group cursor-pointer overflow-hidden rounded-lg bg-stone-100 transition-all duration-500",
+        isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
+      )}
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
@@ -50,8 +49,8 @@ export function PhotoCard({
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className={cn(
-              "object-cover transition-all duration-700",
-              isLoaded ? "opacity-100 scale-100" : "opacity-0 scale-110",
+              "object-cover transition-all duration-500 ease-out",
+              isLoaded ? "opacity-100 scale-100" : "opacity-0 scale-105",
               isHovered && "scale-105",
             )}
             onLoad={() => setIsLoaded(true)}
@@ -62,22 +61,24 @@ export function PhotoCard({
         )}
 
         {!isLoaded && isVisible && (
-          <div className="absolute inset-0 bg-gradient-to-br from-stone-200 to-stone-300 animate-pulse" />
+          <div className="absolute inset-0 bg-gradient-to-br from-stone-200 to-stone-300">
+            <div className="absolute inset-0 bg-stone-100 animate-pulse" />
+          </div>
         )}
       </div>
 
-      <motion.div
-        className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: isHovered ? 1 : 0 }}
-        transition={{ duration: 0.3 }}
+      <div
+        className={cn(
+          "absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent transition-opacity duration-300",
+          isHovered ? "opacity-100" : "opacity-0"
+        )}
       />
 
-      <motion.div
-        className="absolute bottom-0 left-0 right-0 p-4 text-white"
-        initial={{ y: 20, opacity: 0 }}
-        animate={{ y: isHovered ? 0 : 20, opacity: isHovered ? 1 : 0 }}
-        transition={{ duration: 0.3 }}
+      <div
+        className={cn(
+          "absolute bottom-0 left-0 right-0 p-4 text-white transition-all duration-300 transform",
+          isHovered ? "translate-y-0 opacity-100" : "translate-y-4 opacity-0"
+        )}
       >
         <div className="flex items-center justify-between">
           <span className="text-sm font-medium">{photo.id}</span>
@@ -104,7 +105,7 @@ export function PhotoCard({
             </button>
           </div>
         </div>
-      </motion.div>
-    </motion.div>
+      </div>
+    </div>
   );
 }

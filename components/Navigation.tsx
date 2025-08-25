@@ -53,15 +53,12 @@ export function Navigation({
             <div className="flex items-center">
               <Link href="/" className="flex items-center gap-2">
                 <Heart
-                  className={cn(
-                    "w-6 h-6 transition-colors",
-                    isScrolled ? "text-rose-500" : "text-white",
-                  )}
+                  className={cn("w-6 h-6 transition-colors", "text-rose-500")}
                 />
                 <span
                   className={cn(
                     "text-xl font-serif transition-colors",
-                    isScrolled ? "text-stone-800" : "text-white",
+                    "text-stone-800",
                   )}
                 >
                   {SITE_CONFIG.coupleNames.combined}
@@ -78,7 +75,7 @@ export function Navigation({
                     "px-4 py-2 rounded-full transition-colors text-sm font-medium",
                     isScrolled
                       ? "text-stone-600 hover:bg-stone-100"
-                      : "text-white/90 hover:bg-white/10",
+                      : "hover:bg-slate-500/10",
                   )}
                 >
                   {cat.name}
@@ -93,7 +90,7 @@ export function Navigation({
                   "p-2 rounded-full transition-colors",
                   isScrolled
                     ? "text-stone-600 hover:bg-stone-100"
-                    : "text-white hover:bg-white/10",
+                    : "hover:bg-slate-500/10",
                 )}
                 aria-label="Search"
               >

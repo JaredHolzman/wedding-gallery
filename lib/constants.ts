@@ -1,15 +1,17 @@
 export const SITE_CONFIG = {
-  title: 'L & V Wedding Gallery',
-  description: 'Browse and download beautiful memories from our special day',
+  title: "L & V Wedding Gallery",
+  description: "Browse and download beautiful memories from our special day",
   coupleNames: {
-    partner1: 'L',
-    partner2: 'V',
-    combined: 'L & V',
+    partner1: "L",
+    partner2: "V",
+    combined: "L & V",
   },
-  weddingDate: 'June 18, 2025',
-  venue: 'Beautiful Venue Name',
-  photographer: 'Professional Photography Studio',
+  weddingDate: "June 18, 2025",
+  venue: "Beautiful Venue Name",
+  photographer: "Professional Photography Studio",
 };
+
+export const PHOTOS_PER_LOAD = 20;
 
 export const IMAGE_CONFIG = {
   thumbnailWidth: 400,
@@ -25,7 +27,7 @@ export const ANIMATION_CONFIG = {
   defaultDuration: 0.3,
   staggerDelay: 0.05,
   springConfig: {
-    type: 'spring',
+    type: "spring",
     stiffness: 300,
     damping: 30,
   },

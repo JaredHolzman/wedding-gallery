@@ -1,12 +1,13 @@
-'use client';
+"use client";
 
-import { useState } from 'react';
-import Image from 'next/image';
-import { motion } from 'framer-motion';
-import { Download, Maximize2, Heart } from 'lucide-react';
-import { Photo } from '@/lib/photo-types';
-import { cn } from '@/lib/utils';
-import { useIntersectionObserver } from '@/lib/hooks/useIntersectionObserver';
+import { useState } from "react";
+import Image from "next/image";
+import { motion } from "framer-motion";
+import { Download, Maximize2, Heart } from "lucide-react";
+import { cn } from "@/lib/utils";
+import { useIntersectionObserver } from "@/lib/hooks/useIntersectionObserver";
+
+import type { Photo } from "@/lib/photo-types";
 
 interface PhotoCardProps {
   photo: Photo;
@@ -15,12 +16,17 @@ interface PhotoCardProps {
   onDownload: () => void;
 }
 
-export function PhotoCard({ photo, index, onClick, onDownload }: PhotoCardProps) {
+export function PhotoCard({
+  photo,
+  index,
+  onClick,
+  onDownload,
+}: PhotoCardProps) {
   const [isLoaded, setIsLoaded] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
   const [ref, entry] = useIntersectionObserver<HTMLDivElement>({
     threshold: 0.1,
-    rootMargin: '50px',
+    rootMargin: "50px",
     freezeOnceVisible: true,
   });
 
@@ -44,9 +50,9 @@ export function PhotoCard({ photo, index, onClick, onDownload }: PhotoCardProps)
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className={cn(
-              'object-cover transition-all duration-700',
-              isLoaded ? 'opacity-100 scale-100' : 'opacity-0 scale-110',
-              isHovered && 'scale-105'
+              "object-cover transition-all duration-700",
+              isLoaded ? "opacity-100 scale-100" : "opacity-0 scale-110",
+              isHovered && "scale-105",
             )}
             onLoad={() => setIsLoaded(true)}
             quality={85}
@@ -54,7 +60,7 @@ export function PhotoCard({ photo, index, onClick, onDownload }: PhotoCardProps)
             blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAhEAACAQQDAAMAAAAAAAAAAAABAgMABAUREiExQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRMUH/2gAMAwEAAhEDEQA/AKXIYu1vYQs8YZh52dA2DrvRBoexUWTn4IudlbvFK+yjbLse6IJPn3REzgaKD6qyOJxEElvqrOe0TaMf/9k="
           />
         )}
-        
+
         {!isLoaded && isVisible && (
           <div className="absolute inset-0 bg-gradient-to-br from-stone-200 to-stone-300 animate-pulse" />
         )}

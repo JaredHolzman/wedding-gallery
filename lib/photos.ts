@@ -1,27 +1,27 @@
-import fs from 'fs';
-import path from 'path';
-import { Photo, PhotoCategory } from './photo-types';
+import fs from "fs";
+import path from "path";
 
-export { Photo, PhotoCategory } from './photo-types';
+import type { Photo, PhotoCategory } from "./photo-types";
 
-const PHOTOS_DIR = 'public/wedding_photos';
-const PHOTOS_PATH = '/wedding_photos';
+const PHOTOS_DIR = "public/wedding_photos";
+const PHOTOS_PATH = "/wedding_photos";
 
 export async function getAllPhotos(): Promise<Photo[]> {
   const photosDirectory = path.join(process.cwd(), PHOTOS_DIR);
-  const filenames = fs.readdirSync(photosDirectory)
-    .filter(file => file.endsWith('.jpg') || file.endsWith('.JPG'))
+  const filenames = fs
+    .readdirSync(photosDirectory)
+    .filter((file) => file.endsWith(".jpg") || file.endsWith(".JPG"))
     .sort((a, b) => {
-      const numA = parseInt(a.match(/\d+/)?.[0] || '0');
-      const numB = parseInt(b.match(/\d+/)?.[0] || '0');
+      const numA = parseInt(a.match(/\d+/)?.[0] || "0");
+      const numB = parseInt(b.match(/\d+/)?.[0] || "0");
       return numA - numB;
     });
 
-  const photos: Photo[] = filenames.map(filename => {
+  const photos: Photo[] = filenames.map((filename) => {
     const filePath = path.join(photosDirectory, filename);
     const stats = fs.statSync(filePath);
-    const id = filename.replace(/\.(jpg|JPG)$/, '');
-    
+    const id = filename.replace(/\.(jpg|JPG)$/, "");
+
     return {
       id,
       filename,
@@ -38,24 +38,25 @@ export async function getAllPhotos(): Promise<Photo[]> {
 
 export function getPhotoById(id: string): Photo | undefined {
   const photos = getAllPhotosSync();
-  return photos.find(photo => photo.id === id);
+  return photos.find((photo) => photo.id === id);
 }
 
 export function getAllPhotosSync(): Photo[] {
   const photosDirectory = path.join(process.cwd(), PHOTOS_DIR);
-  const filenames = fs.readdirSync(photosDirectory)
-    .filter(file => file.endsWith('.jpg') || file.endsWith('.JPG'))
+  const filenames = fs
+    .readdirSync(photosDirectory)
+    .filter((file) => file.endsWith(".jpg") || file.endsWith(".JPG"))
     .sort((a, b) => {
-      const numA = parseInt(a.match(/\d+/)?.[0] || '0');
-      const numB = parseInt(b.match(/\d+/)?.[0] || '0');
+      const numA = parseInt(a.match(/\d+/)?.[0] || "0");
+      const numB = parseInt(b.match(/\d+/)?.[0] || "0");
       return numA - numB;
     });
 
-  return filenames.map(filename => {
+  return filenames.map((filename) => {
     const filePath = path.join(photosDirectory, filename);
     const stats = fs.statSync(filePath);
-    const id = filename.replace(/\.(jpg|JPG)$/, '');
-    
+    const id = filename.replace(/\.(jpg|JPG)$/, "");
+
     return {
       id,
       filename,
@@ -70,48 +71,47 @@ export function getAllPhotosSync(): Photo[] {
 
 export function getPhotoCategories(): PhotoCategory[] {
   const photos = getAllPhotosSync();
-  const photoIds = photos.map(p => p.id);
-  
+  const photoIds = photos.map((p) => p.id);
+
   const categories: PhotoCategory[] = [
     {
-      id: 'all',
-      name: 'All Photos',
+      id: "all",
+      name: "All Photos",
       photoIds: photoIds,
     },
     {
-      id: 'portraits',
-      name: 'Portraits',
-      photoIds: photoIds.filter(id => {
-        const num = parseInt(id.match(/\d+/)?.[0] || '0');
+      id: "portraits",
+      name: "Portraits",
+      photoIds: photoIds.filter((id) => {
+        const num = parseInt(id.match(/\d+/)?.[0] || "0");
         return num >= 16 && num <= 100;
       }),
     },
     {
-      id: 'ceremony',
-      name: 'Ceremony',
-      photoIds: photoIds.filter(id => {
-        const num = parseInt(id.match(/\d+/)?.[0] || '0');
+      id: "ceremony",
+      name: "Ceremony",
+      photoIds: photoIds.filter((id) => {
+        const num = parseInt(id.match(/\d+/)?.[0] || "0");
         return num >= 101 && num <= 300;
       }),
     },
     {
-      id: 'reception',
-      name: 'Reception',
-      photoIds: photoIds.filter(id => {
-        const num = parseInt(id.match(/\d+/)?.[0] || '0');
+      id: "reception",
+      name: "Reception",
+      photoIds: photoIds.filter((id) => {
+        const num = parseInt(id.match(/\d+/)?.[0] || "0");
         return num >= 301 && num <= 500;
       }),
     },
     {
-      id: 'details',
-      name: 'Details',
-      photoIds: photoIds.filter(id => {
-        const num = parseInt(id.match(/\d+/)?.[0] || '0');
+      id: "details",
+      name: "Details",
+      photoIds: photoIds.filter((id) => {
+        const num = parseInt(id.match(/\d+/)?.[0] || "0");
         return num > 500;
       }),
     },
   ];
-  
-  return categories.filter(cat => cat.photoIds.length > 0);
-}
 
+  return categories.filter((cat) => cat.photoIds.length > 0);
+}

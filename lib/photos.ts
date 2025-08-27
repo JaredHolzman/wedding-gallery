@@ -17,12 +17,21 @@ export async function getAllPhotos(): Promise<Photo[]> {
       return numA - numB;
     });
 
-  const photos: Photo[] = filenames.map((filename) => {
+  const uniqueIds = new Set<string>();
+  const photos: Photo[] = [];
+  
+  filenames.forEach((filename, index) => {
     const filePath = path.join(photosDirectory, filename);
     const stats = fs.statSync(filePath);
-    const id = filename.replace(/\.(jpg|JPG)$/, "");
+    let id = filename.replace(/\.(jpg|JPG)$/, "");
+    
+    // Ensure unique ID
+    if (uniqueIds.has(id)) {
+      id = `${id}_${index}`;
+    }
+    uniqueIds.add(id);
 
-    return {
+    photos.push({
       id,
       filename,
       src: `${PHOTOS_PATH}/${filename}`,
@@ -30,7 +39,7 @@ export async function getAllPhotos(): Promise<Photo[]> {
       height: 4000,
       aspectRatio: 1.5,
       fileSize: stats.size,
-    };
+    });
   });
 
   return photos;
@@ -52,12 +61,21 @@ export function getAllPhotosSync(): Photo[] {
       return numA - numB;
     });
 
-  return filenames.map((filename) => {
+  const uniqueIds = new Set<string>();
+  const photos: Photo[] = [];
+  
+  filenames.forEach((filename, index) => {
     const filePath = path.join(photosDirectory, filename);
     const stats = fs.statSync(filePath);
-    const id = filename.replace(/\.(jpg|JPG)$/, "");
+    let id = filename.replace(/\.(jpg|JPG)$/, "");
+    
+    // Ensure unique ID
+    if (uniqueIds.has(id)) {
+      id = `${id}_${index}`;
+    }
+    uniqueIds.add(id);
 
-    return {
+    photos.push({
       id,
       filename,
       src: `${PHOTOS_PATH}/${filename}`,
@@ -65,8 +83,10 @@ export function getAllPhotosSync(): Photo[] {
       height: 4000,
       aspectRatio: 1.5,
       fileSize: stats.size,
-    };
+    });
   });
+
+  return photos;
 }
 
 export function getPhotoCategories(): PhotoCategory[] {

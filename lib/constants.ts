@@ -1,3 +1,5 @@
+export const PHOTOS_PER_LOAD = 20;
+
 export const SITE_CONFIG = {
   title: "L & V Wedding Gallery",
   description: "Browse and download beautiful memories from our special day",
@@ -10,8 +12,6 @@ export const SITE_CONFIG = {
   venue: "Beautiful Venue Name",
   photographer: "Professional Photography Studio",
 };
-
-export const PHOTOS_PER_LOAD = 20;
 
 export const IMAGE_CONFIG = {
   thumbnailWidth: 400,

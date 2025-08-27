@@ -6,9 +6,9 @@ import { PhotoCard } from "./PhotoCard";
 import { Lightbox } from "./Lightbox";
 import { downloadImage, cn } from "@/lib/utils";
 import { Loader2 } from "lucide-react";
+import { PHOTOS_PER_LOAD } from "@/lib/constants";
 
 import type { Photo } from "@/lib/photo-types";
-import { PHOTOS_PER_LOAD } from "@/lib/constants";
 
 interface PhotoGridProps {
   photos: Photo[];
@@ -92,7 +92,7 @@ export function PhotoGrid({ photos, initialCategory = "all" }: PhotoGridProps) {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
           {visiblePhotos.map((photo, index) => (
             <PhotoCard
-              key={photo.id}
+              key={`${photo.id}-${index}`}
               photo={photo}
               index={index}
               onClick={() => handlePhotoClick(photo, index)}
@@ -101,10 +101,12 @@ export function PhotoGrid({ photos, initialCategory = "all" }: PhotoGridProps) {
           ))}
         </div>
 
-        <div className={cn(
-          "flex justify-center items-center py-12 transition-opacity duration-300",
-          loadingMore ? "opacity-100" : "opacity-0 h-0 py-0 overflow-hidden"
-        )}>
+        <div
+          className={cn(
+            "flex justify-center items-center py-12 transition-opacity duration-300",
+            loadingMore ? "opacity-100" : "opacity-0 h-0 py-0 overflow-hidden",
+          )}
+        >
           <Loader2 className="w-8 h-8 text-stone-400 animate-spin" />
         </div>
 

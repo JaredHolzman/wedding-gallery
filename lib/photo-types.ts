@@ -7,7 +7,20 @@ export interface Photo {
   aspectRatio: number;
   fileSize: number;
   blurDataURL?: string;
+  category: PhotoCategoryType;
+  description: string;
+  tags: string[];
+  location?: string;
 }
+
+export type PhotoCategoryType = 
+  | 'Getting Ready'
+  | 'Ceremony' 
+  | 'Portraits'
+  | 'Cocktail Hour'
+  | 'Reception'
+  | 'Party'
+  | 'Details';
 
 export interface PhotoCategory {
   id: string;

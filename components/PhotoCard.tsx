@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Image from "next/image";
-import { Download, Maximize2, Heart } from "lucide-react";
+import { Download, Maximize2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useIntersectionObserver } from "@/lib/hooks/useIntersectionObserver";
 
@@ -15,12 +15,7 @@ interface PhotoCardProps {
   onDownload: () => void;
 }
 
-export function PhotoCard({
-  photo,
-  index,
-  onClick,
-  onDownload,
-}: PhotoCardProps) {
+export function PhotoCard({ photo, onClick, onDownload }: PhotoCardProps) {
   const [isLoaded, setIsLoaded] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
   const [ref, entry] = useIntersectionObserver<HTMLDivElement>({
@@ -36,7 +31,7 @@ export function PhotoCard({
       ref={ref}
       className={cn(
         "relative group cursor-pointer overflow-hidden rounded-lg bg-stone-100 transition-all duration-500",
-        isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
+        isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4",
       )}
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
@@ -70,14 +65,14 @@ export function PhotoCard({
       <div
         className={cn(
           "absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent transition-opacity duration-300",
-          isHovered ? "opacity-100" : "opacity-0"
+          isHovered ? "opacity-100" : "opacity-0",
         )}
       />
 
       <div
         className={cn(
           "absolute bottom-0 left-0 right-0 p-4 text-white transition-all duration-300 transform",
-          isHovered ? "translate-y-0 opacity-100" : "translate-y-4 opacity-0"
+          isHovered ? "translate-y-0 opacity-100" : "translate-y-4 opacity-0",
         )}
       >
         <div className="flex items-center justify-between">

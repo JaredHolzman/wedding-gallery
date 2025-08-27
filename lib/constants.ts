@@ -1,16 +1,15 @@
 export const PHOTOS_PER_LOAD = 20;
 
 export const SITE_CONFIG = {
-  title: "L & V Wedding Gallery",
+  title: "Jared & Joanna Wedding Gallery",
   description: "Browse and download beautiful memories from our special day",
   coupleNames: {
-    partner1: "L",
-    partner2: "V",
-    combined: "L & V",
+    partner1: "Jared",
+    partner2: "Joanna",
+    combined: "Jared & Joanna",
   },
-  weddingDate: "June 18, 2025",
-  venue: "Beautiful Venue Name",
-  photographer: "Professional Photography Studio",
+  weddingDate: "June 06, 2025",
+  venue: "Majestic Mirage, Punta Cana",
 };
 
 export const IMAGE_CONFIG = {

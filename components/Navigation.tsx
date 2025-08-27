@@ -85,19 +85,6 @@ export function Navigation({
 
             <div className="flex items-center gap-2">
               <button
-                onClick={onSearchToggle}
-                className={cn(
-                  "p-2 rounded-full transition-colors",
-                  isScrolled
-                    ? "text-stone-600 hover:bg-stone-100"
-                    : "hover:bg-slate-500/10",
-                )}
-                aria-label="Search"
-              >
-                <Search className="w-5 h-5" />
-              </button>
-
-              <button
                 onClick={onDownloadAll}
                 className={cn(
                   "hidden sm:flex items-center gap-2 px-4 py-2 rounded-full transition-colors",

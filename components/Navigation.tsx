@@ -2,21 +2,23 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Menu, X, Download, Heart, Grid, Search } from "lucide-react";
+import { Menu, X, Download, Heart, Grid } from "lucide-react";
 import { SITE_CONFIG } from "@/lib/constants";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 
 interface NavigationProps {
   onCategoryChange?: (category: string) => void;
-  onSearchToggle?: () => void;
   onDownloadAll?: () => void;
+  selectedCategory?: string;
+  categoryCounts?: Record<string, number>;
 }
 
 export function Navigation({
   onCategoryChange,
-  onSearchToggle,
   onDownloadAll,
+  selectedCategory = "all",
+  categoryCounts = {},
 }: NavigationProps) {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -31,11 +33,24 @@ export function Navigation({
   }, []);
 
   const categories = [
-    { id: "all", name: "All Photos", icon: Grid },
-    { id: "portraits", name: "Portraits", icon: Heart },
-    { id: "ceremony", name: "Ceremony", icon: Heart },
-    { id: "reception", name: "Reception", icon: Heart },
-    { id: "details", name: "Details", icon: Heart },
+    { id: "all", name: "All Photos", icon: Grid, countKey: "all" },
+    {
+      id: "getting-ready",
+      name: "Getting Ready",
+      icon: Heart,
+      countKey: "Getting Ready",
+    },
+    { id: "ceremony", name: "Ceremony", icon: Heart, countKey: "Ceremony" },
+    { id: "portraits", name: "Portraits", icon: Heart, countKey: "Portraits" },
+    {
+      id: "cocktail-hour",
+      name: "Cocktail Hour",
+      icon: Heart,
+      countKey: "Cocktail Hour",
+    },
+    { id: "reception", name: "Reception", icon: Heart, countKey: "Reception" },
+    { id: "party", name: "Party", icon: Heart, countKey: "Party" },
+    { id: "details", name: "Details", icon: Heart, countKey: "Details" },
   ];
 
   return (
@@ -66,21 +81,44 @@ export function Navigation({
               </Link>
             </div>
 
-            <div className="hidden md:flex items-center gap-6">
-              {categories.map((cat) => (
-                <button
-                  key={cat.id}
-                  onClick={() => onCategoryChange?.(cat.id)}
-                  className={cn(
-                    "px-4 py-2 rounded-full transition-colors text-sm font-medium",
-                    isScrolled
-                      ? "text-stone-600 hover:bg-stone-100"
-                      : "hover:bg-slate-500/10",
-                  )}
-                >
-                  {cat.name}
-                </button>
-              ))}
+            <div className="hidden md:flex items-center gap-4">
+              {categories.map((cat) => {
+                const isActive = selectedCategory === cat.id;
+                return (
+                  <button
+                    key={cat.id}
+                    onClick={() => onCategoryChange?.(cat.id)}
+                    className={cn(
+                      "px-4 py-2 rounded-full transition-all text-sm font-medium flex items-center gap-2",
+                      isScrolled
+                        ? isActive
+                          ? "bg-stone-800 text-white"
+                          : "text-stone-600 hover:bg-stone-100"
+                        : isActive
+                        ? "bg-white text-stone-800"
+                        : "text-zinc-500 hover:bg-slate-500/10",
+                    )}
+                  >
+                    <span>{cat.name}</span>
+                    {/* {categoryCounts[cat.countKey] !== undefined && (
+                      <span
+                        className={cn(
+                          "text-xs px-2 py-0.5 rounded-full",
+                          isActive
+                            ? isScrolled
+                              ? "bg-white/20 text-white/90"
+                              : "bg-stone-800/20 text-stone-700"
+                            : isScrolled
+                            ? "bg-stone-200 text-stone-600"
+                            : "bg-white/20 text-white/80",
+                        )}
+                      >
+                        {categoryCounts[cat.countKey]}
+                      </span>
+                    )} */}
+                  </button>
+                );
+              })}
             </div>
 
             <div className="flex items-center gap-2">
@@ -118,6 +156,7 @@ export function Navigation({
         </div>
       </nav>
 
+      {/* className="w-full text-left px-4 py-3 rounded-lg text-stone-700 hover:bg-stone-100 transition-colors" */}
       <AnimatePresence>
         {isMobileMenuOpen && (
           <motion.div
@@ -127,18 +166,38 @@ export function Navigation({
             className="fixed inset-x-0 top-16 sm:top-20 z-30 bg-white shadow-lg md:hidden"
           >
             <div className="px-4 py-6 space-y-4">
-              {categories.map((cat) => (
-                <button
-                  key={cat.id}
-                  onClick={() => {
-                    onCategoryChange?.(cat.id);
-                    setIsMobileMenuOpen(false);
-                  }}
-                  className="w-full text-left px-4 py-3 rounded-lg text-stone-700 hover:bg-stone-100 transition-colors"
-                >
-                  {cat.name}
-                </button>
-              ))}
+              {categories.map((cat) => {
+                const isActive = selectedCategory === cat.id;
+                return (
+                  <button
+                    key={cat.id}
+                    onClick={() => {
+                      onCategoryChange?.(cat.id);
+                      setIsMobileMenuOpen(false);
+                    }}
+                    className={cn(
+                      "w-full text-left px-4 py-3 rounded-lg transition-colors flex items-center justify-between",
+                      isActive
+                        ? "bg-stone-800 text-white"
+                        : "text-stone-700 hover:bg-stone-100",
+                    )}
+                  >
+                    <span>{cat.name}</span>
+                    {categoryCounts[cat.countKey] !== undefined && (
+                      <span
+                        className={cn(
+                          "text-xs px-2 py-0.5 rounded-full",
+                          isActive
+                            ? "bg-white/20 text-white/90"
+                            : "bg-stone-200 text-stone-600",
+                        )}
+                      >
+                        {categoryCounts[cat.countKey]}
+                      </span>
+                    )}
+                  </button>
+                );
+              })}
 
               <button
                 onClick={() => {

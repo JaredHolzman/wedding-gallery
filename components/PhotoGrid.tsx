@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import { AnimatePresence } from "framer-motion";
 import { PhotoCard } from "./PhotoCard";
 import { Lightbox } from "./Lightbox";
@@ -13,21 +13,30 @@ import type { Photo } from "@/lib/photo-types";
 interface PhotoGridProps {
   photos: Photo[];
   initialCategory?: string;
+  selectedCategory?: string;
 }
 
-export function PhotoGrid({ photos, initialCategory = "all" }: PhotoGridProps) {
+export function PhotoGrid({ photos, initialCategory = "all", selectedCategory }: PhotoGridProps) {
   const [selectedPhoto, setSelectedPhoto] = useState<Photo | null>(null);
   const [selectedPhotoIndex, setSelectedPhotoIndex] = useState<number>(-1);
   const [visiblePhotos, setVisiblePhotos] = useState<Photo[]>([]);
   const [loadingMore, setLoadingMore] = useState(false);
   const [hasMore, setHasMore] = useState(true);
-  const [category, setCategory] = useState(initialCategory);
+  const [category, setCategory] = useState(selectedCategory || initialCategory);
+
+  // Filter photos by category
+  const filteredPhotos = React.useMemo(() => {
+    if (!category || category === 'all') return photos;
+    const categoryName = category.replace(/-/g, ' ')
+      .replace(/\b\w/g, l => l.toUpperCase()); // Convert kebab-case to Title Case
+    return photos.filter(photo => photo.category === categoryName);
+  }, [photos, category]);
 
   const loadInitialPhotos = useCallback(() => {
-    const initial = photos.slice(0, PHOTOS_PER_LOAD);
+    const initial = filteredPhotos.slice(0, PHOTOS_PER_LOAD);
     setVisiblePhotos(initial);
-    setHasMore(photos.length > PHOTOS_PER_LOAD);
-  }, [photos]);
+    setHasMore(filteredPhotos.length > PHOTOS_PER_LOAD);
+  }, [filteredPhotos]);
 
   const loadMorePhotos = useCallback(() => {
     if (loadingMore || !hasMore) return;
@@ -36,20 +45,27 @@ export function PhotoGrid({ photos, initialCategory = "all" }: PhotoGridProps) {
 
     setTimeout(() => {
       const currentLength = visiblePhotos.length;
-      const nextPhotos = photos.slice(
+      const nextPhotos = filteredPhotos.slice(
         currentLength,
         currentLength + PHOTOS_PER_LOAD,
       );
 
       setVisiblePhotos((prev) => [...prev, ...nextPhotos]);
-      setHasMore(currentLength + PHOTOS_PER_LOAD < photos.length);
+      setHasMore(currentLength + PHOTOS_PER_LOAD < filteredPhotos.length);
       setLoadingMore(false);
     }, 500);
-  }, [visiblePhotos, photos, loadingMore, hasMore]);
+  }, [visiblePhotos, filteredPhotos, loadingMore, hasMore]);
 
   useEffect(() => {
     loadInitialPhotos();
   }, [loadInitialPhotos]);
+
+  // Update category when selectedCategory prop changes
+  useEffect(() => {
+    if (selectedCategory !== undefined) {
+      setCategory(selectedCategory);
+    }
+  }, [selectedCategory]);
 
   useEffect(() => {
     const handleScroll = () => {

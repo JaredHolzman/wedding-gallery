@@ -1,18 +1,8 @@
-import { Hero } from "@/components/Hero";
-import { Navigation } from "@/components/Navigation";
-import { PhotoGrid } from "@/components/PhotoGrid";
+import { WeddingGallery } from "@/components/WeddingGallery";
 import { getAllPhotos } from "@/lib/photos-with-metadata";
 
 export default async function Home() {
   const photos = await getAllPhotos();
 
-  return (
-    <main className="min-h-screen bg-white">
-      <Navigation />
-      <Hero />
-      <section id="gallery" className="py-20">
-        <PhotoGrid photos={photos} />
-      </section>
-    </main>
-  );
+  return <WeddingGallery photos={photos} />;
 }

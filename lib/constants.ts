@@ -12,6 +12,9 @@ export const SITE_CONFIG = {
   venue: "Majestic Mirage, Punta Cana",
 };
 
+export const DOWNLOAD_URL =
+  "https://drive.google.com/file/d/12Vrf0lxyc909tFZOxNXK7_wuay2g0BLa/view?usp=sharing";
+
 export const IMAGE_CONFIG = {
   thumbnailWidth: 400,
   thumbnailQuality: 85,

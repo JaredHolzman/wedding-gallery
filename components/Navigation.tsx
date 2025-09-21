@@ -34,23 +34,10 @@ export function Navigation({
 
   const categories = [
     { id: "all", name: "All Photos", icon: Grid, countKey: "all" },
-    {
-      id: "getting-ready",
-      name: "Getting Ready",
-      icon: Heart,
-      countKey: "Getting Ready",
-    },
     { id: "ceremony", name: "Ceremony", icon: Heart, countKey: "Ceremony" },
     { id: "portraits", name: "Portraits", icon: Heart, countKey: "Portraits" },
-    {
-      id: "cocktail-hour",
-      name: "Cocktail Hour",
-      icon: Heart,
-      countKey: "Cocktail Hour",
-    },
     { id: "reception", name: "Reception", icon: Heart, countKey: "Reception" },
     { id: "party", name: "Party", icon: Heart, countKey: "Party" },
-    { id: "details", name: "Details", icon: Heart, countKey: "Details" },
   ];
 
   return (

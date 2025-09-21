@@ -15,14 +15,7 @@ export interface PhotoMetadata {
   people?: string[];
 }
 
-export type PhotoCategory = 
-  | 'Getting Ready'
-  | 'Ceremony' 
-  | 'Portraits'
-  | 'Cocktail Hour'
-  | 'Reception'
-  | 'Party'
-  | 'Details';
+export type PhotoCategory = "Ceremony" | "Portraits" | "Reception" | "Party";
 
 export interface CategoryDefinition {
   id: PhotoCategory;
@@ -33,45 +26,27 @@ export interface CategoryDefinition {
 
 export const PHOTO_CATEGORIES: CategoryDefinition[] = [
   {
-    id: 'Getting Ready',
-    name: 'Getting Ready',
-    description: 'Preparation shots, dress/suit details',
-    icon: 'Users'
+    id: "Ceremony",
+    name: "Ceremony",
+    description: "Processional, vows, first kiss, recessional",
+    icon: "Heart",
   },
   {
-    id: 'Ceremony',
-    name: 'Ceremony',
-    description: 'Processional, vows, first kiss, recessional',
-    icon: 'Heart'
+    id: "Portraits",
+    name: "Portraits",
+    description: "Couple, family, bridal party",
+    icon: "Camera",
   },
   {
-    id: 'Portraits',
-    name: 'Portraits',
-    description: 'Couple, family, bridal party',
-    icon: 'Camera'
+    id: "Reception",
+    name: "Reception",
+    description: "Entrance, first dance, speeches, cake cutting",
+    icon: "Music",
   },
   {
-    id: 'Cocktail Hour',
-    name: 'Cocktail Hour',
-    description: 'Mingling, sunset shots',
-    icon: 'Sunset'
+    id: "Party",
+    name: "Party",
+    description: "Dancing, celebration shots",
+    icon: "Zap",
   },
-  {
-    id: 'Reception',
-    name: 'Reception',
-    description: 'Entrance, first dance, speeches, cake cutting',
-    icon: 'Music'
-  },
-  {
-    id: 'Party',
-    name: 'Party',
-    description: 'Dancing, celebration shots',
-    icon: 'Zap'
-  },
-  {
-    id: 'Details',
-    name: 'Details',
-    description: 'Rings, flowers, decorations, venue',
-    icon: 'Eye'
-  }
 ];

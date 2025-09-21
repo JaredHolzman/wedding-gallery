@@ -11,7 +11,7 @@ export function Hero() {
 
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-b from-stone-50 to-white">
-      <div className="absolute inset-0 bg-[url('/wedding_photos/L&V-16.jpg')] bg-cover bg-center opacity-10"></div>
+      <div className="absolute inset-0 bg-[url('/wedding_photos/L&V-180.jpg')] bg-cover bg-center opacity-10"></div>
 
       <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto">
         <motion.div

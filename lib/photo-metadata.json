@@ -7,14 +7,9 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 6848228,
-    "category": "Getting Ready",
-    "description": "Pre-ceremony preparations and setup",
-    "tags": [
-      "preparation",
-      "groom",
-      "venue-setup",
-      "tropical-setting"
-    ],
+    "category": "Ceremony",
+    "description": "Wedding ceremony proceedings",
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -25,14 +20,9 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7138660,
-    "category": "Getting Ready",
-    "description": "Pre-ceremony preparations and setup",
-    "tags": [
-      "preparation",
-      "groom",
-      "venue-setup",
-      "tropical-setting"
-    ],
+    "category": "Ceremony",
+    "description": "Wedding ceremony proceedings",
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -43,14 +33,9 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8625032,
-    "category": "Getting Ready",
-    "description": "Pre-ceremony preparations and setup",
-    "tags": [
-      "preparation",
-      "groom",
-      "venue-setup",
-      "tropical-setting"
-    ],
+    "category": "Ceremony",
+    "description": "Wedding ceremony proceedings",
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -61,14 +46,9 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12658027,
-    "category": "Getting Ready",
-    "description": "Pre-ceremony preparations and setup",
-    "tags": [
-      "preparation",
-      "groom",
-      "venue-setup",
-      "tropical-setting"
-    ],
+    "category": "Ceremony",
+    "description": "Wedding ceremony proceedings",
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -79,14 +59,9 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 6830079,
-    "category": "Getting Ready",
-    "description": "Pre-ceremony preparations and setup",
-    "tags": [
-      "preparation",
-      "groom",
-      "venue-setup",
-      "tropical-setting"
-    ],
+    "category": "Ceremony",
+    "description": "Wedding ceremony proceedings",
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -97,14 +72,9 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 6280315,
-    "category": "Getting Ready",
-    "description": "Pre-ceremony preparations and setup",
-    "tags": [
-      "preparation",
-      "groom",
-      "venue-setup",
-      "tropical-setting"
-    ],
+    "category": "Ceremony",
+    "description": "Wedding ceremony proceedings",
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -115,14 +85,9 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 6954163,
-    "category": "Getting Ready",
-    "description": "Pre-ceremony preparations and setup",
-    "tags": [
-      "preparation",
-      "groom",
-      "venue-setup",
-      "tropical-setting"
-    ],
+    "category": "Ceremony",
+    "description": "Wedding ceremony proceedings",
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -133,14 +98,9 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7514718,
-    "category": "Getting Ready",
-    "description": "Pre-ceremony preparations and setup",
-    "tags": [
-      "preparation",
-      "groom",
-      "venue-setup",
-      "tropical-setting"
-    ],
+    "category": "Ceremony",
+    "description": "Wedding ceremony proceedings",
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -151,14 +111,9 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8707123,
-    "category": "Getting Ready",
-    "description": "Pre-ceremony preparations and setup",
-    "tags": [
-      "preparation",
-      "groom",
-      "venue-setup",
-      "tropical-setting"
-    ],
+    "category": "Ceremony",
+    "description": "Wedding ceremony proceedings",
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -171,13 +126,7 @@
     "fileSize": 8550090,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -190,13 +139,7 @@
     "fileSize": 7855912,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -209,13 +152,7 @@
     "fileSize": 7716321,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -228,13 +165,7 @@
     "fileSize": 9238592,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -247,13 +178,7 @@
     "fileSize": 8322664,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -266,13 +191,7 @@
     "fileSize": 9349646,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -285,13 +204,7 @@
     "fileSize": 9338020,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -304,13 +217,7 @@
     "fileSize": 10495069,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -323,13 +230,7 @@
     "fileSize": 9736100,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -342,13 +243,7 @@
     "fileSize": 10942621,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -361,13 +256,7 @@
     "fileSize": 8577660,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -380,13 +269,7 @@
     "fileSize": 8489855,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -399,13 +282,7 @@
     "fileSize": 9602407,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -418,13 +295,7 @@
     "fileSize": 9878678,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -437,13 +308,7 @@
     "fileSize": 9797934,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -456,13 +321,7 @@
     "fileSize": 12053923,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -475,13 +334,7 @@
     "fileSize": 7455601,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -494,13 +347,7 @@
     "fileSize": 10817868,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -513,13 +360,7 @@
     "fileSize": 9609350,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -532,13 +373,7 @@
     "fileSize": 9643987,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -551,13 +386,7 @@
     "fileSize": 11989410,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -570,13 +399,7 @@
     "fileSize": 11294407,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -589,13 +412,7 @@
     "fileSize": 10939284,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -608,13 +425,7 @@
     "fileSize": 7368548,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -627,13 +438,7 @@
     "fileSize": 11499219,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -646,13 +451,7 @@
     "fileSize": 8675017,
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": [
-      "ceremony",
-      "guests",
-      "outdoor-wedding",
-      "tropical",
-      "formal"
-    ],
+    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -665,13 +464,7 @@
     "fileSize": 7694470,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -684,13 +477,7 @@
     "fileSize": 9797499,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -703,13 +490,7 @@
     "fileSize": 11910571,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -722,13 +503,7 @@
     "fileSize": 10340613,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -741,13 +516,7 @@
     "fileSize": 8405206,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -760,13 +529,7 @@
     "fileSize": 12195211,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -779,13 +542,7 @@
     "fileSize": 12190410,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -798,13 +555,7 @@
     "fileSize": 10262991,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -817,13 +568,7 @@
     "fileSize": 10183561,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -836,13 +581,7 @@
     "fileSize": 10562418,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -855,13 +594,7 @@
     "fileSize": 12287648,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -874,13 +607,7 @@
     "fileSize": 9861289,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -893,13 +620,7 @@
     "fileSize": 9144675,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -912,13 +633,7 @@
     "fileSize": 8386828,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -931,13 +646,7 @@
     "fileSize": 8997542,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -950,13 +659,7 @@
     "fileSize": 7366418,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -969,13 +672,7 @@
     "fileSize": 7822779,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -988,13 +685,7 @@
     "fileSize": 13677372,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1007,13 +698,7 @@
     "fileSize": 13672278,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1026,13 +711,7 @@
     "fileSize": 10836632,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1045,13 +724,7 @@
     "fileSize": 10920913,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1064,13 +737,7 @@
     "fileSize": 10850859,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1083,13 +750,7 @@
     "fileSize": 9706292,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1102,13 +763,7 @@
     "fileSize": 10089548,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1121,13 +776,7 @@
     "fileSize": 10219169,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1140,13 +789,7 @@
     "fileSize": 10867750,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1159,13 +802,7 @@
     "fileSize": 10724863,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1178,13 +815,7 @@
     "fileSize": 10112065,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1197,13 +828,7 @@
     "fileSize": 9662194,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1216,13 +841,7 @@
     "fileSize": 9902664,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1235,13 +854,7 @@
     "fileSize": 11107717,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1254,13 +867,7 @@
     "fileSize": 10378132,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1273,13 +880,7 @@
     "fileSize": 11061250,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1292,13 +893,7 @@
     "fileSize": 5362068,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1311,13 +906,7 @@
     "fileSize": 7777025,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1330,13 +919,7 @@
     "fileSize": 5073186,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1349,13 +932,7 @@
     "fileSize": 6925449,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1368,13 +945,7 @@
     "fileSize": 6198131,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1387,13 +958,7 @@
     "fileSize": 5917496,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1406,13 +971,7 @@
     "fileSize": 7147969,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1425,13 +984,7 @@
     "fileSize": 7971553,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1444,13 +997,7 @@
     "fileSize": 8241113,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1463,13 +1010,7 @@
     "fileSize": 5911230,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1482,13 +1023,7 @@
     "fileSize": 5546378,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1501,13 +1036,7 @@
     "fileSize": 7250582,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1520,13 +1049,7 @@
     "fileSize": 4937375,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1539,13 +1062,7 @@
     "fileSize": 6121392,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1558,13 +1075,7 @@
     "fileSize": 5937091,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1577,13 +1088,7 @@
     "fileSize": 7349290,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1596,13 +1101,7 @@
     "fileSize": 7586649,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1615,13 +1114,7 @@
     "fileSize": 8790321,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1634,13 +1127,7 @@
     "fileSize": 8753374,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1653,13 +1140,7 @@
     "fileSize": 7405736,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1672,13 +1153,7 @@
     "fileSize": 4449991,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1691,13 +1166,7 @@
     "fileSize": 6489264,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1710,13 +1179,7 @@
     "fileSize": 10984710,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1729,13 +1192,7 @@
     "fileSize": 10483562,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1748,13 +1205,7 @@
     "fileSize": 13710159,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1767,13 +1218,7 @@
     "fileSize": 9035698,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1786,13 +1231,7 @@
     "fileSize": 12346582,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1805,13 +1244,7 @@
     "fileSize": 12204216,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1824,13 +1257,7 @@
     "fileSize": 9620767,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1843,13 +1270,7 @@
     "fileSize": 13527863,
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": [
-      "portraits",
-      "couple",
-      "family",
-      "formal-photos",
-      "beach-setting"
-    ],
+    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1862,13 +1283,7 @@
     "fileSize": 12426870,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1881,13 +1296,7 @@
     "fileSize": 12746560,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1900,13 +1309,7 @@
     "fileSize": 11511234,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1919,13 +1322,7 @@
     "fileSize": 11018051,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1938,13 +1335,7 @@
     "fileSize": 10319069,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1957,13 +1348,7 @@
     "fileSize": 10939454,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1976,13 +1361,7 @@
     "fileSize": 9528724,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1995,13 +1374,7 @@
     "fileSize": 10288963,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2014,13 +1387,7 @@
     "fileSize": 10781486,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2033,13 +1400,7 @@
     "fileSize": 9571111,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2052,13 +1413,7 @@
     "fileSize": 11203345,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2071,13 +1426,7 @@
     "fileSize": 10878731,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2090,13 +1439,7 @@
     "fileSize": 15335416,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2109,13 +1452,7 @@
     "fileSize": 14467175,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2128,13 +1465,7 @@
     "fileSize": 12383649,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2147,13 +1478,7 @@
     "fileSize": 10874272,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2166,13 +1491,7 @@
     "fileSize": 13416716,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2185,13 +1504,7 @@
     "fileSize": 17017764,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2204,13 +1517,7 @@
     "fileSize": 13731819,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2223,13 +1530,7 @@
     "fileSize": 13344915,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2242,13 +1543,7 @@
     "fileSize": 14427538,
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": [
-      "reception",
-      "dining",
-      "speeches",
-      "evening",
-      "celebration"
-    ],
+    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2261,13 +1556,7 @@
     "fileSize": 12108653,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2280,13 +1569,7 @@
     "fileSize": 14499840,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2299,13 +1582,7 @@
     "fileSize": 14284818,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2318,13 +1595,7 @@
     "fileSize": 11592655,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2337,13 +1608,7 @@
     "fileSize": 8313746,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2356,13 +1621,7 @@
     "fileSize": 15133750,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2375,13 +1634,7 @@
     "fileSize": 13530909,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2394,13 +1647,7 @@
     "fileSize": 13720555,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2413,13 +1660,7 @@
     "fileSize": 13617103,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2432,13 +1673,7 @@
     "fileSize": 10507533,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2451,13 +1686,7 @@
     "fileSize": 10229874,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2470,13 +1699,7 @@
     "fileSize": 14928677,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2489,13 +1712,7 @@
     "fileSize": 16633463,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2508,13 +1725,7 @@
     "fileSize": 16800616,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2527,13 +1738,7 @@
     "fileSize": 14054283,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2546,13 +1751,7 @@
     "fileSize": 10490725,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2565,13 +1764,7 @@
     "fileSize": 10852938,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2584,13 +1777,7 @@
     "fileSize": 18061826,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2603,13 +1790,7 @@
     "fileSize": 16162041,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2622,13 +1803,7 @@
     "fileSize": 14877624,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2641,13 +1816,7 @@
     "fileSize": 10762396,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2660,13 +1829,7 @@
     "fileSize": 9987700,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2679,13 +1842,7 @@
     "fileSize": 11597271,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2698,13 +1855,7 @@
     "fileSize": 12626090,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2717,13 +1868,7 @@
     "fileSize": 11415062,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2736,13 +1881,7 @@
     "fileSize": 10523363,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2755,13 +1894,7 @@
     "fileSize": 9464117,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2774,13 +1907,7 @@
     "fileSize": 10714548,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2793,13 +1920,7 @@
     "fileSize": 9720996,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2812,13 +1933,7 @@
     "fileSize": 10248826,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2831,13 +1946,7 @@
     "fileSize": 9879647,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2850,13 +1959,7 @@
     "fileSize": 12581918,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2869,13 +1972,7 @@
     "fileSize": 14164816,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2888,13 +1985,7 @@
     "fileSize": 11900560,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2907,13 +1998,7 @@
     "fileSize": 15613257,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2926,13 +2011,7 @@
     "fileSize": 13349954,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2945,13 +2024,7 @@
     "fileSize": 13885450,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2964,13 +2037,7 @@
     "fileSize": 11283995,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2983,13 +2050,7 @@
     "fileSize": 11742701,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3002,13 +2063,7 @@
     "fileSize": 10988476,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3021,13 +2076,7 @@
     "fileSize": 10940947,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3040,13 +2089,7 @@
     "fileSize": 14070235,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3059,13 +2102,7 @@
     "fileSize": 16670788,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3078,13 +2115,7 @@
     "fileSize": 8288895,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3097,13 +2128,7 @@
     "fileSize": 15493790,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3116,13 +2141,7 @@
     "fileSize": 15351781,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3135,13 +2154,7 @@
     "fileSize": 15099833,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3154,13 +2167,7 @@
     "fileSize": 14164475,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3173,13 +2180,7 @@
     "fileSize": 15201402,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3192,13 +2193,7 @@
     "fileSize": 11430711,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3211,13 +2206,7 @@
     "fileSize": 9722789,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3230,13 +2219,7 @@
     "fileSize": 13399259,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3249,13 +2232,7 @@
     "fileSize": 12821035,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3268,13 +2245,7 @@
     "fileSize": 12340795,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3287,13 +2258,7 @@
     "fileSize": 9743739,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3306,13 +2271,7 @@
     "fileSize": 13521697,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3325,13 +2284,7 @@
     "fileSize": 11447402,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3344,13 +2297,7 @@
     "fileSize": 11603933,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3363,13 +2310,7 @@
     "fileSize": 11641520,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3382,13 +2323,7 @@
     "fileSize": 12046361,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3401,13 +2336,7 @@
     "fileSize": 12240725,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3420,13 +2349,7 @@
     "fileSize": 11665919,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3439,13 +2362,7 @@
     "fileSize": 12319675,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3458,13 +2375,7 @@
     "fileSize": 11951533,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3477,13 +2388,7 @@
     "fileSize": 12422277,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3496,13 +2401,7 @@
     "fileSize": 12249463,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3515,13 +2414,7 @@
     "fileSize": 10444761,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3534,13 +2427,7 @@
     "fileSize": 12235995,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3553,13 +2440,7 @@
     "fileSize": 13211184,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3572,13 +2453,7 @@
     "fileSize": 11843456,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3591,13 +2466,7 @@
     "fileSize": 12597071,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3610,13 +2479,7 @@
     "fileSize": 11795884,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3629,13 +2492,7 @@
     "fileSize": 12387440,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3648,13 +2505,7 @@
     "fileSize": 11235802,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3667,13 +2518,7 @@
     "fileSize": 12523951,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3686,13 +2531,7 @@
     "fileSize": 12179782,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3705,13 +2544,7 @@
     "fileSize": 12968332,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3724,13 +2557,7 @@
     "fileSize": 11837807,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3743,13 +2570,7 @@
     "fileSize": 12506655,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3762,13 +2583,7 @@
     "fileSize": 10110122,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -3781,13 +2596,7 @@
     "fileSize": 13550319,
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": [
-      "dancing",
-      "party",
-      "celebration",
-      "night",
-      "fun"
-    ],
+    "tags": ["dancing", "party", "celebration", "night", "fun"],
     "location": "Majestic Mirage, Punta Cana"
   }
 ]

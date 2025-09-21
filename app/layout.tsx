@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "L & V Wedding Gallery",
+  title: "Joanna & Joanna Wedding Gallery",
   description: "Browse and download beautiful memories from our special day",
 };
 

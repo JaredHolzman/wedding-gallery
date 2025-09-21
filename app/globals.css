@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
 @import "tailwindcss";
 
 :root {
@@ -9,9 +8,8 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: 'Inter', var(--font-geist-sans);
+  --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-  --font-serif: 'Playfair Display', serif;
 }
 
 html {
@@ -21,14 +19,9 @@ html {
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: 'Inter', var(--font-geist-sans), Arial, Helvetica, sans-serif;
-  antialiasing: antialiased;
-}
-
-.font-serif {
-  font-family: 'Playfair Display', serif;
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
 }
 
 .font-sans {
-  font-family: 'Inter', var(--font-geist-sans), sans-serif;
+  font-family: var(--font-geist-sans), sans-serif;
 }

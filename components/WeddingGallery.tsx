@@ -20,10 +20,13 @@ export function WeddingGallery({ photos }: WeddingGalleryProps) {
 
   // Calculate category counts
   const categoryCounts = useMemo(() => {
-    const counts = photos.reduce((acc, photo) => {
-      acc[photo.category] = (acc[photo.category] || 0) + 1;
-      return acc;
-    }, {} as Record<string, number>);
+    const counts = photos.reduce(
+      (acc, photo) => {
+        acc[photo.category] = (acc[photo.category] || 0) + 1;
+        return acc;
+      },
+      {} as Record<string, number>,
+    );
 
     return {
       all: photos.length,

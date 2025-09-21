@@ -127,10 +127,13 @@ async function generatePhotoMetadata(): Promise<void> {
   });
 
   // Generate category summary
-  const categoryCount = metadata.reduce((acc, photo) => {
-    acc[photo.category] = (acc[photo.category] || 0) + 1;
-    return acc;
-  }, {} as Record<string, number>);
+  const categoryCount = metadata.reduce(
+    (acc, photo) => {
+      acc[photo.category] = (acc[photo.category] || 0) + 1;
+      return acc;
+    },
+    {} as Record<string, number>,
+  );
 
   console.log("\n📊 Category Distribution:");
   Object.entries(categoryCount).forEach(([category, count]) => {

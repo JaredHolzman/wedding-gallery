@@ -82,8 +82,8 @@ export function Navigation({
                           ? "bg-stone-800 text-white"
                           : "text-stone-600 hover:bg-stone-100"
                         : isActive
-                        ? "bg-white text-stone-800"
-                        : "text-zinc-500 hover:bg-slate-500/10",
+                          ? "bg-white text-stone-800"
+                          : "text-zinc-500 hover:bg-slate-500/10",
                     )}
                   >
                     <span>{cat.name}</span>

@@ -16,7 +16,11 @@ interface PhotoGridProps {
   selectedCategory?: string;
 }
 
-export function PhotoGrid({ photos, initialCategory = "all", selectedCategory }: PhotoGridProps) {
+export function PhotoGrid({
+  photos,
+  initialCategory = "all",
+  selectedCategory,
+}: PhotoGridProps) {
   const [selectedPhoto, setSelectedPhoto] = useState<Photo | null>(null);
   const [selectedPhotoIndex, setSelectedPhotoIndex] = useState<number>(-1);
   const [visiblePhotos, setVisiblePhotos] = useState<Photo[]>([]);
@@ -26,10 +30,11 @@ export function PhotoGrid({ photos, initialCategory = "all", selectedCategory }:
 
   // Filter photos by category
   const filteredPhotos = React.useMemo(() => {
-    if (!category || category === 'all') return photos;
-    const categoryName = category.replace(/-/g, ' ')
-      .replace(/\b\w/g, l => l.toUpperCase()); // Convert kebab-case to Title Case
-    return photos.filter(photo => photo.category === categoryName);
+    if (!category || category === "all") return photos;
+    const categoryName = category
+      .replace(/-/g, " ")
+      .replace(/\b\w/g, (l) => l.toUpperCase()); // Convert kebab-case to Title Case
+    return photos.filter((photo) => photo.category === categoryName);
   }, [photos, category]);
 
   const loadInitialPhotos = useCallback(() => {

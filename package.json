@@ -8,8 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "format": "prettier --write **/*.{js,ts,tsx,json}",
-    "generate-photos": "tsx scripts/generate-photo-data.ts",
-    "analyze-photos": "tsx scripts/analyze-and-categorize-photos.ts"
+    "generate-photo-metadata": "tsx scripts/generate-photo-data.ts"
   },
   "dependencies": {
     "@vercel/speed-insights": "^1.2.0",

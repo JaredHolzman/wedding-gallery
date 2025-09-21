@@ -7,22 +7,36 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 6848228,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHxAAAQMDBQAAAAAAAAAAAAAAAgABEQMFMQQSI1Jh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEAAwAAAAAAAAAAAAAAAAACABMx/9oADAMBAAIRAxEAPwDVhcLdV0oETHuN4ptGX9VQHgW4Bx2RFNqWxqJyf//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-17",
     "filename": "L&V-17.jpg",
     "src": "/wedding_photos/L&V-17.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 7138660,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEH/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECAxEUBTFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIEUf/aAAwDAQACEQMRAD8A1Xjqa9Cc7K1sJ48IlLC6ABGi4D7GOajXJ//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -33,9 +47,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8625032,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAHxAAAQQBBQEAAAAAAAAAAAAAAQACAwUEBhETFCEx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAD/9oADAMBAAIRAxEAPwCStyXamrJuWNrsdh3jEnpWU6qAcR04PqIqJ5yguHWmaQ3/2Q==",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -46,9 +67,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12658027,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAL/xAAhEAAABQIHAAAAAAAAAAAAAAAAAQIEBQMREhMhMUHh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARAxIx/9oADAMBAAIRAxEAPwCpOcfUnyoygeTRcKvZHB+MQcq4QeA3i7p026ABPkoeQdm2f//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -59,22 +87,36 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 6830079,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIBAAAQQCAQUAAAAAAAAAAAAAAQACAwQFEgcRISIxQf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAIjEBAv/aAAwDAQACEQMRAD8A2CvdtY6DYXJHho66uHtQHljGxksfXkLm9j4/URF2sExqf//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-36",
     "filename": "L&V-36.jpg",
     "src": "/wedding_photos/L&V-36.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 6280315,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEH/8QAHRAAAgEEAwAAAAAAAAAAAAAAAAIDAQQREyFBQv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAEH/2gAMAwEAAhEDEQA/ANUe7ZZ5FblfNC7M9ABVx//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -85,9 +127,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 6954163,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIH/8QAHRAAAQQCAwAAAAAAAAAAAAAAAAECAyEFERJikf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/ANMnyrEiZw2l3RS5KHt4ACqR/9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -98,9 +147,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7514718,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHRAAAgEEAwAAAAAAAAAAAAAAAQIAAwQFEgYRIf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAwADAAAAAAAAAAAAAAAAAAECAxEh/9oADAMBAAIRAxEAPwDW8lyc2htqjqdK4AVRKqZ+1KLsj7dexEi8lJ6FUrh//9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -111,9 +167,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8707123,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDBAAGBREHIWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAjEy/9oADAMBAAIRAxEAPwDZ7Ju8nBXLwpq89asQGEno9nLq3k+q9eJ2hcFlBI6+YxiMRV9M/9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -124,9 +187,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8550090,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAeEAABBAIDAQAAAAAAAAAAAAABAAIDEQQUBQYSMf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIDIf/aAAwDAQACEQMRAD8ArOqRRZR18NmvBG2yy7v6kvJNZI9uuD5JF2iIG1w4wuVZ/9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -137,9 +207,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7855912,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAhEAABBAAGAwAAAAAAAAAAAAACAAEDBAUGERMUISIyQf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxETMf/aAAwDAQACEQMRAD8AtcG416lJcrkUdaIfGLT6p+XMoDKbbD9O7eyIove68MNSkDM//9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -150,9 +227,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7716321,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHhAAAQQCAwEAAAAAAAAAAAAAAgABAwQREgUGMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQEBAQEAAAAAAAAAAAAAAAECAAMx/9oADAMBAAIRAxEAPwDT1wr3ewnSLYa+u4Yb6qpD48JCF5JMi7t5RETtc+OmwMm//9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -163,9 +247,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9238592,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAAwQRBRIhMXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEhAjH/2gAMAwEAAhEDEQA/ANXUuQmKbGopa8PsuT78iXr5dSil8VO2hv7EQ6nBqun/2Q==",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -176,9 +267,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8322664,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHhAAAQUAAgMAAAAAAAAAAAAAAgABAwQRBSEGQfD/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQADAAAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/ANp5DYGpJIUNOHAbvfbbijw8nVkhA3ohpCz/AHaIjUlFncn/2Q==",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -189,9 +287,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9349646,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAQQCAwEAAAAAAAAAAAAAAgABAwQFEQYSYZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAQABBQAAAAAAAAAAAAAAAAEAAgMREjH/2gAMAwEAAhEDEQA/AKQs7BncnNQbubVxcpXJtbfxZza5LhI7MoPQPYm4/HRENsey92kwT//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -202,9 +307,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9338020,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHRAAAgMAAgMAAAAAAAAAAAAAAQIAAwQRIQUSYf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAISIf/aAAwDAQACEQMRAD8Avruo89uuyt7tVSpZyeuTxMDpuypptRcFZCuQO/sRC4jPZDl//9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -215,9 +327,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10495069,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAeEAACAgICAwAAAAAAAAAAAAABAgADBAUGERIjMf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAXEQEBAQEAAAAAAAAAAAAAAAACAQAh/9oADAMBAAIRAxEAPwC1TyLJv0dOaze0MFKD5LNW5yDUhbFQnodnyiIJo3lxAVO7/9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -228,9 +347,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9736100,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQACAwQFESESMVFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAAiH/2gAMAwEAAhEDEQA/ANGuslXV2yJpcIueBLjz4pRBRNAbmTWukRHCr2TkC//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -241,9 +367,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10942621,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBAAAQQBBAMAAAAAAAAAAAAAAQACAwQRBQYHEhMhQf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEAAwAAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwC3FuiexQku1z44W+jGfpWbfydZY9zTprTg4z3REyyKbA0Mn//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -254,9 +387,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8577660,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAQMDBQAAAAAAAAAAAAAAAwABAgUGEQQhIzFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIDEUH/2gAMAwEAAhEDEQA/ALOv3NUdbbsnETjMJ5SaXfqwYhjuSWYQd8vuiKHPTV6DfD//2Q==",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -267,9 +407,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8489855,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAgICAQUAAAAAAAAAAAAAAgMAAQQFBxEhIkGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAiH/2gAMAwEAAhEDEQA/ALRplpkpDAYYtrrdX67TM8vmDfKy3LvJvwMh+XEQphTiHmU1p//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -280,9 +427,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9602407,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIhAAAQIEBwEAAAAAAAAAAAAAAQACAwQFBhESFCEiMmHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwCaWu10S5HSkuMjWgYH1ac0+pRCX6p/LfsPiIkpVIr3J//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -293,9 +447,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9878678,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAIRAAAQMDBAMAAAAAAAAAAAAAAgABAwURIQQGFiJRYdH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAESAP/aAAwDAQACEQMRAD8AoG9tdUKBIcR5KS0bv49rL51PH0IQuOH6v9RFUlJkWRN//9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -306,9 +467,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9797934,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQACAwQRIQUTFDH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQEBAQEAAAAAAAAAAAAAAAECABEx/9oADAMBAAIRAxEAPwDYXp5bMNS3yGoXkYjYVfyMOx2YPzYRFOVfc6iSR5v/2Q==",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -319,9 +487,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12053923,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAgEAABAwIHAAAAAAAAAAAAAAABAAIDBQYEERIyQmHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oADAMBAAIRAxEAPwCviblqNKgfESJ2HZq4qKb0qJOZmcD7tEVIWgpI/9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -332,9 +507,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7455601,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIEAAMSIQYRExRR4f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDMRP/2gAMAwEAAhEDEQA/ANDvShCkeDaXv3sM2RtKB7qeeRTlJVYlvoNDf2lKB2yWMbjBvD//2Q==",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -345,9 +527,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10817868,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHRAAAQQCAwAAAAAAAAAAAAAAAgABAwQFFAYhMf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQACA//aAAwDAQACEQMRAD8Am0LFPKVY9ESrSM3q00XGrBRgW8XbM6Iq40FYa2UGf//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -358,9 +547,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9609350,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAQMEAwAAAAAAAAAAAAAAAQACAwQFBhIhQpH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAA//aAAwDAQACEQMRAD8ApcytYkkNdTnSdjfVlMpvZkedmck9kRF6SNOQSMDv/9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -371,9 +567,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9643987,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQACAwQFEiEGEzJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAR/9oADAMBAAIRAxEAPwC3zS2HM19G7rnYN/VlEs15dK85N2SfSIprBp7nIGR3/9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -384,9 +587,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 11989410,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIBAAAQQBBAMAAAAAAAAAAAAAAQACAwQGBRESITFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAwADAAAAAAAAAAAAAAAAAAECAxIh/9oADAMBAAIRAxEAPwChUxmvV0GaTcu4tMjQsdsZTGyeRpj7DiPHv4iIdEURjmutH//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -397,9 +607,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 11294407,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAAwQFIUEGERL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAwADAAAAAAAAAAAAAAAAAAESAiFB/9oADAMBAAIRAxEAPwCpXQNrc20VOBQgLOezwZl2b5RkpmXqlY+VsYDnr3EQJT0JGL4f/9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -410,9 +627,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10939284,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAED/8QAHRAAAgMAAgMAAAAAAAAAAAAAAQMAAgQFBhESMf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQITMVH/2gAMAwEAAhEDEQA/AIjYrhG4H2Fl1d5FhQzFvfMgZce2j6YiFVtaE4Y4f//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -423,9 +647,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7368548,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAeEAACAgICAwAAAAAAAAAAAAABAgADBBIFERRCof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIRAP/aAAwDAQACEQMRAD8AqLrEai9yg8vKcK6+oEscfjNaKxqo6UD5EQRadeocmTO//9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -436,9 +667,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 11499219,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAHhAAAQMEAwAAAAAAAAAAAAAAAwABIQIEBRETFoH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACISIxUf/aAAwDAQACEQMRAD8Ay8Nl6LS0OK1OXmG001NG5U/YM40aG/qIicVH2PXayJyf/9k=",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -449,9 +687,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8675017,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBAAAQMDBQEAAAAAAAAAAAAAAgABAwQFIQYRFRYiUf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAIRMf/aAAwDAQACEQMRAD8AoVuopZrRU3KeNnGmPYPrisp2u2F64wM5REcxHbL6F//Z",
     "category": "Ceremony",
     "description": "Wedding ceremony proceedings",
-    "tags": ["ceremony", "guests", "outdoor-wedding", "tropical", "formal"],
+    "tags": [
+      "ceremony",
+      "guests",
+      "outdoor-wedding",
+      "tropical",
+      "formal"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -462,9 +707,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7694470,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHxAAAgEDBQEAAAAAAAAAAAAAAQIAAwURBBMhMUFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIRITH/2gAMAwEAAhEDEQA/ANMpvQv1U7jOqswCAej7L62S3BQG0Sk45Oe4iDEqulNtxqXg/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -475,9 +727,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9797499,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAgEAABAwQCAwAAAAAAAAAAAAABAAIDBAUREgYVISIx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAACAQMRIf/aAAwDAQACEQMRAD8AqOJW5na1cDRvBUjB2PwYVEbFaYyWCN3r4REVM6o96QjcP//Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -488,22 +747,36 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 11910571,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIAAwQFEhEUMlHx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIDEf/aAAwDAQACEQMRAD8AsPishfPZ9q4DVCQHcHyA+TYpdrRRaWoOg1598REnkp1jfOoE/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-158",
     "filename": "L&V-158.jpg",
     "src": "/wedding_photos/L&V-158.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 10340613,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHhAAAgIBBQEAAAAAAAAAAAAAAQIAAwQFBhESQSL/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABgRAQEBAQEAAAAAAAAAAAAAAAIBACEx/9oADAMBAAIRAxEAPwDXZr51F1WZn3lq+xRevkgW7u1FbXVL/kEgcjyIkySnlywZJzf/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -514,9 +787,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8405206,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAgICAgMAAAAAAAAAAAAAAQMCBAAFESEHMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQEBAQEAAAAAAAAAAAAAAAIBABEh/9oADAMBAAIRAxEAPwDQ1ynp6ahrGziVE9H11kPa8830WXJNeJK5mBPHw8Yxgkwzk1AMU93/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -527,9 +807,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12195211,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAeEAABBAIDAQAAAAAAAAAAAAABAAMEEQIFFSEx4f/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACAxMx/9oADAMBAAIRAxEAPwCm5OY3qGtjJetoCgAPT0je8n5t45CM0QQDd/URScljjHXVn//Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -540,9 +827,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12190410,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQADBAUCEQYhMVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAyEx/9oADAMBAAIRAxEAPwDRR7OY5RCyzf2xgPAOyVKHLp5GxHaI+oiJnYHDErrQ9E//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -553,9 +847,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10262991,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAHxAAAQMDBQAAAAAAAAAAAAAAAQACBAURIQMGEiJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMhMf/aAAwDAQACEQMRAD8Avpm5pEqkR5eoBcniWj0rZZWAWtLo2bZ7IiGsZThgK1bs/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -566,22 +867,36 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10183561,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIBAAAQIFBQAAAAAAAAAAAAAAAQACAwQFERIGISIzQf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADITH/2gAMAwEAAhEDEQA/ALqVqeNNUaBNRewnHEelbTKs4saXSwvbfkiIaxlOGArU9n//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-177",
     "filename": "L&V-177.jpg",
     "src": "/wedding_photos/L&V-177.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 10562418,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAfEAAABgMAAwAAAAAAAAAAAAAAAQIDBBIFEyERUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAiH/2gAMAwEAAhEDEQA/AKkeKjFEqXKLc+tyqTP10TX8lA3uWQu1j88+gAheJBo//9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -592,9 +907,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12287648,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHRAAAgMAAgMAAAAAAAAAAAAAAQIAAwQFEQYxYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAgABUf/aAAwDAQACEQMRAD8Aq36dC1jZrtJIBWtV9d/ZlbfMeSW11AXoEiIkta7FHL//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -605,9 +927,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9861289,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAdEAACAgIDAQAAAAAAAAAAAAABAwACBREEEiFS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIxA//aAAwDAQACEQMRAD8AsMzCsYgv5zGMba3Smh4JUpkmmoO6+j5iJOrqcYlzl6j/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -618,9 +947,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9144675,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAAwQRBQYVITH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAAMBAQAAAAAAAAAAAAAAAAACUQES/9oADAMBAAIRAxEAPwDWt5jx2MLc+17LWcIigepC/eCjspoGwdfIiR01HVWH/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -631,9 +967,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8386828,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIRAAAQMBCQAAAAAAAAAAAAAAAgABBAMFERIVMVRhkeH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhJB/9oADAMBAAIRAxEAPwDRgtSWMShKrG2A7mEWbV+VXmUrbU+/URRul0cSz//Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -644,9 +987,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8997542,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAHxAAAQQCAgMAAAAAAAAAAAAAAQACAwQFEgYRB1Fx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAACIf/aAAwDAQACEQMRAD8A3MZkxx+ncs0G6QWZdx7P1Rv8nta9zTPICD11oURM4Kf/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -657,9 +1007,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7366418,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIAAwQRBRUhYf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACEf/aAAwDAQACEQMRAD8A0nt8nJ5yxbyVqoYaCn7K5cup1DBT6NxEBeVayX//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -670,9 +1027,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7822779,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHhAAAQMEAwAAAAAAAAAAAAAAAgABAwQFBhEhMbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oADAMBAAIRAxEAPwDSMXvtXdho66R3GCQNiO/VWXLXCQx2/Du3SImRBL//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -683,9 +1047,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 13677372,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHxAAAQMEAwEAAAAAAAAAAAAAAgABBAMUITEFBhHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIRAxEAPwDRGrXcKnx8mKNQQ16Sk/VIRO72wZzv4iIaplKzk//Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -696,9 +1067,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 13672278,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAHRAAAgICAwEAAAAAAAAAAAAAAgQAAQMRBQYxQf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAgEAA//aAAwDAQACEQMRAD8A0EHKYSx8eyoOQQ+WUmLqSBlZWoG7vfsRASt1J5mb/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -709,9 +1087,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10836632,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAAABQQDAAAAAAAAAAAAAAAAAQIDBBESEzIGIaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAERL/2gAMAwEAAhEDEQA/AKqDzN+IUplUJFjTuPbYzp36K5qStxtC8SCuIjoAA1CpyN//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -722,9 +1107,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10920913,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAAABgIDAQAAAAAAAAAAAAAAAQIDBBIRMQYTIaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEhH/2gAMAwEAAhEDEQA/AKyHy2TETLYXDbqy7Teba9+ipakKcbQvoQViI8AANIVMnb//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -735,9 +1127,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10850859,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAhEAABAwMEAwAAAAAAAAAAAAACAAEDBAURBhIUISIxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAS/9oADAMBAAIRAxEAPwCvt+o7nRtUw8WERCXYOCby9dv9VXHPOcYkQBkmZ3REdIVcF//Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -748,9 +1147,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9706292,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAhEAACAQMDBQAAAAAAAAAAAAACAwABBAUGERQhIjFBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAESMQL/2gAMAwEAAhEDEQA/AKTVGoM7juY1DAIVMEA3r98yutMvdMtEmbe8gGtenvaIhprC0LrT/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -761,9 +1167,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10089548,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQACAwQFESESE//EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAES/9oADAMBAAIRAxEAPwDSLV3JYy5SjgMfykf5cBzQ4rjnzFxO29KIhTKSj//Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -774,9 +1187,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10219169,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIBAAAQMDBQEAAAAAAAAAAAAAAgABBAMRMQUSEyFB0f/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAES/9oADAMBAAIRAxEAPwDQZU3UYE6GNOoHC5WNm9x9dVzeqRk+8e3vhEQplZR//9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -787,9 +1207,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10867750,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAcEAACAgMBAQAAAAAAAAAAAAABAgADBAURMSH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEv/aAAwDAQACEQMRAD8Apdhvd5gbhkxWqGPVaEK99B5LMWWuAxZet98iIdNXI3//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -800,9 +1227,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10724863,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHBAAAQUBAQEAAAAAAAAAAAAAAQACAwURBCEx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEv/aAAwDAQACEQMRAD8A0ltbWFNHxM4xEDJIGuHwYrwmncNIZp9RENpLA3//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -813,9 +1247,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10112065,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAABAwMFAAAAAAAAAAAAAAABAAIDBAVBERIhIzH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECEiH/2gAMAwEAAhEDEQA/AK6urquyW+KWJsY7ACG51yqSO7yuja47eQD4iIXklg6ReH//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -826,9 +1267,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9662194,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAeEAABBAEFAAAAAAAAAAAAAAABAAIDBQQRFVFSkf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAABABL/2gAMAwEAAhEDEQA/ALm7t8+pyqqCFzCJH6PI4VZukvYeIiOkngb/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -839,9 +1287,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9902664,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAgEAABAwIHAAAAAAAAAAAAAAAFAAEEAgMTFCEjMWKR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAAMAAAAAAAAAAAAAAAAAAAABEv/aAAwDAQACEQMRAD8AvTpUkKmC4sHDZrte5Vxoq/OXuniIjTHCP//Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -852,9 +1307,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 11107717,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHxAAAAUEAwAAAAAAAAAAAAAAAAECAwQFERMhMUHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAARIC/9oADAMBAAIRAxEAPwDQabWpzWSOUJrESu1c+uLaZ6zSV47ZaAAKZSMn/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -865,9 +1327,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10378132,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQACBBEDBSES8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESUf/aAAwDAQACEQMRAD8A0bVzd3hBwPwxwy74R0fWqBsyV5FtZddREKZSVh//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -878,9 +1347,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 11061250,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQACAwQFERITQf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECAxH/2gAMAwEAAhEDEQA/ANHhz9Y4WGJ9X1rPPPLj8VON+N8280mgaGgiIKmUec8P/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -891,9 +1367,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 5362068,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACBBEDBRMxMv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIRAxEAPwDaokvhxxhisxgKcHdqw7KLfgoiqWFI/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -904,9 +1387,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7777025,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQACAwUEERJRMf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEREiH/2gAMAwEAAhEDEQA/ANZrHQS08WNKOsZw5LNfB4o76iiD3AYbdA+IiZwmqP/Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -917,9 +1407,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 5073186,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAQQBBQEAAAAAAAAAAAAAAgABAwQFEhUyNHGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANY3e5WytcXnY8eY6SicePipmloO3XH4iIP/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -930,9 +1427,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 6925449,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAHxAAAAYCAwEAAAAAAAAAAAAAAAECAwURBCESEyIx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhES/9oADAMBAAIRAxEAPwDT5PIbxUxzjSlttsldFuy2LikoxZc+hXrfwABTb6YlysR//9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -943,9 +1447,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 6198131,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAABBAAHAAAAAAAAAAAAAAABAAIDIQQFBhITMdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Av84hjZrWHHxSOZOAGvAFP68VjyF17RdoiD//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -956,9 +1467,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 5917496,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQACAwQFESESFTLh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIh/9oADAMBAAIRAxEAPwDU57jHVXBlNGXiaIcy3GiFTuZ26FKzA16+oiFXS1FFEvGf/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -969,9 +1487,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7147969,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAAwQGEVEFEjH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAA//aAAwDAQACEQMRAD8A0vbcPGby9eR7umYiAq69dSnRsFa01hqSWCgE8/TxEQ50qbQy65yxK7//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -982,9 +1507,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7971553,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIAAwQGERMUMUFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAEFAQAAAAAAAAAAAAAAAAIAAQMEIkH/2gAMAwEAAhEDEQA/ANA1HXw23qEVcW1SGI8gmR/QxPT2bfIiHWDcDz1L1Yxkj0y//9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -995,9 +1527,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8241113,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAIRAAAgIBAgcAAAAAAAAAAAAAAQMABQIEBhESEyJCUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQEBAQEAAAAAAAAAAAAAAAECABES/9oADAMBAAIRAxEAPwDW29NptBetbXDpMceLCPIH3LlsWmbkWZI7szzH7EQOvpNVUjMu/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1008,22 +1547,36 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 5911230,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHxAAAQMDBQAAAAAAAAAAAAAAAgABAwYRIQQFEhQy/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAQACAwAAAAAAAAAAAAAAAAEAIQIREv/aAAwDAQACEQMRAD8A1yR5NTtcASG0oHiR3a3JlDOiKeIyLpx5e/lESB03DyoNT//Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-240",
     "filename": "L&V-240.jpg",
     "src": "/wedding_photos/L&V-240.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 5546378,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIABAURAxIGE4H/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQADAAAAAAAAAAAAAAAAAAEAAiH/2gAMAwEAAhEDEQA/ANR8jy64rF+62OyM46qBvW5YrZGxyV+J1A0yBh9ERC2QyUKjjP/Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1034,48 +1587,76 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7250582,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIRAAAQQBAwUAAAAAAAAAAAAAAwABAgQRBQYHEyIyQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAIDAAAAAAAAAAAAAAAAAAACASEx/9oADAMBAAIRAxEAPwDUdxCq3C1w2SEG2Xw0Pahj8f6ZM5J9eXdJ38fqIpe9CrB//9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-246",
     "filename": "L&V-246.jpg",
     "src": "/wedding_photos/L&V-246.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 4937375,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHRAAAgIBBQAAAAAAAAAAAAAAAQMAAgQREiEyQf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAARIxEf/aAAwDAQACEQMRAD8A3OybNYMxhBI608EuMp+nG2IhrmDlPT//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-248",
     "filename": "L&V-248.jpg",
     "src": "/wedding_photos/L&V-248.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 6121392,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHBAAAgMAAwEAAAAAAAAAAAAAAQIAAwUREzEU/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIREv/aAAwDAQACEQMRAD8A0/T1Pq0xn30h2Xhg5PhlCll4RR2HyIgxT1lFwuZR/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-253",
     "filename": "L&V-253.jpg",
     "src": "/wedding_photos/L&V-253.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 5937091,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHhAAAQMEAwAAAAAAAAAAAAAAAgADBAEFIZERFlH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAgMT/9oADAMBAAIRAxEAPwDXjvrpXCO/EyxWnDgljSsdmieHpEQdEak1Ypf/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1086,22 +1667,36 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7349290,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIBAAAQMCBwAAAAAAAAAAAAAAAgABAwQGBxESI1KR4f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECAxH/2gAMAwEAAhEDEQA/ANKK8XARqAjcI4i0yDyUixLoM32D68RFM9K6PMJo/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-256",
     "filename": "L&V-256.jpg",
     "src": "/wedding_photos/L&V-256.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 7586649,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQACEQMEBSEGMUFR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAIDAAERIf/aAAwDAQACEQMRAD8A2lycmGUso26i+LIqHyPilPMcqDEt1rtEQWsIb5HpULB25//Z",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1112,22 +1707,36 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8790321,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHhAAAAYCAwAAAAAAAAAAAAAAAAECAwQFESEGEjH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQASAv/aAAwDAQACEQMRAD8A0989ZQ7ApUCWopWicz4YsIs+RqQk+7GyyAA6umU8GRv/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-262",
     "filename": "L&V-262.jpg",
     "src": "/wedding_photos/L&V-262.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 8753374,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAfEAABAwQDAQAAAAAAAAAAAAADAAECBAURMQYTIlH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhED/9oADAMBAAIRAxEAPwC7ymFLcA1VOAXWSOs6ypwLvcQgGJix8RaOvjIiG3RclE51uGz/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1138,9 +1747,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 7405736,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIBAAAQMEAgMAAAAAAAAAAAAAAgABAwQGERIFIWFykf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAMAwEAAhEDEQA/ANSpLq5CaIyOAHLOhBt0z+Pjqwbik1bNGOfdEROshhf/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1151,9 +1767,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 4449991,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIhAAAAQEBwAAAAAAAAAAAAAAAAECEQMEISIFBhITFDHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANtw7NsnGSnbTEPUdxmTN5xQ58qq51Vr0AAP/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1164,9 +1787,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 6489264,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIBAAAQMDBQEAAAAAAAAAAAAAAwACBQEEQRESFRciQv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAR/9oADAMBAAIRAxEAPwDUpK9FD3vIiC2rit1fXKl7Oi/oRN2fKIiaSnLQcHf/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1177,22 +1807,36 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10984710,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHRAAAgMAAgMAAAAAAAAAAAAAAgMAAQQGEQVh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACEf/aAAwDAQACEQMRAD8AreWQenjQalvYBCrtnv7qYwzlG0WEI6m1VXdVESSEN64F/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-274",
     "filename": "L&V-274.jpg",
     "src": "/wedding_photos/L&V-274.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 10483562,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIRAAAQMBCQAAAAAAAAAAAAAAAwABAgUEBhITFCExUuH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABcRAQEBAQAAAAAAAAAAAAAAAAERAAL/2gAMAwEAAhEDEQA/AKp6UOo3Zha5SfVZTkkTssVNWSxMSOJtpO3HiIo9kiYemG//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1203,22 +1847,36 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 13710159,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAABAwMFAAAAAAAAAAAAAAACAAEFBhIxBAcRIlH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwClpmqJSNo99TaBA7cALvhlOHuVKXl0DPqIpe1DGJqT/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-278",
     "filename": "L&V-278.jpg",
     "src": "/wedding_photos/L&V-278.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 9035698,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAhEAAABQQCAwAAAAAAAAAAAAAAAQIDBAUREiEHEyJBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBAxEx/9oADAMBAAIRAxEAPwCtpVcTChImxnloaNXi0RaM/oqW+SYfWnNDmVivr2ACe9jVZChozh//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1229,9 +1887,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12346582,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAHxAAAQIGAwAAAAAAAAAAAAAAAgABAwQFBhEiByFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAIRMf/aAAwDAQACEQMRAD8AnxtUJun0vEvFcQh7EzeutkNy3AYsYtDwXbboijwFOyav/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1242,22 +1907,36 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12204216,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBAAAgIBAwUAAAAAAAAAAAAAAQIABAMFBgcRISIyQv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAlH/2gAMAwEAAhEDEQA/AJHFt7PSoM1fMy/bED2m+XeetEAqF6HuPOIkeb0RKn//2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-285",
     "filename": "L&V-285.jpg",
     "src": "/wedding_photos/L&V-285.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
     "fileSize": 9620767,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAABBAEFAQAAAAAAAAAAAAABAAIDBBEFEhQhMWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEv/aAAwDAQACEQMRAD8Ar9Mpx2ePNOTI57DsafB0pWzRtCxKAWAB5GM/URAc6iWxGUz/2Q==",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1268,9 +1947,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 13527863,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAQMEAwEAAAAAAAAAAAAAAgABAwQGERIFIkFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIRIRL/2gAMAwEAAhEDEQA/AKOy6y4J+KM5JRGKAH17Z8WY1t5ENZOJ7bNITP8AcoimksWib5So/9k=",
     "category": "Portraits",
     "description": "Post-ceremony portraits and family photos",
-    "tags": ["portraits", "couple", "family", "formal-photos", "beach-setting"],
+    "tags": [
+      "portraits",
+      "couple",
+      "family",
+      "formal-photos",
+      "beach-setting"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1281,9 +1967,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12426870,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAcEAACAQUBAAAAAAAAAAAAAAABAgADBAUGESH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREBAAMBAQAAAAAAAAAAAAAAAQAREgID/9oADAMBAAIRAxEAPwC++2bI4qgle4Pr+MAewuy5B1DArwjsRDabS4t8+cjU/9k=",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1294,9 +1987,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12746560,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAL/xAAcEAACAgMBAQAAAAAAAAAAAAABAgAEAxEhUQX/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECEiH/2gAMAwEAAhEDEQA/AJqXqn0Kth7WAqjaKMOkjwwq0ioIx815EQr5KGqJ00f/2Q==",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1307,9 +2007,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 11511234,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIG/8QAHhAAAQIHAQAAAAAAAAAAAAAAAQACAwQFBhEhMRf/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACA//aAAwDAQACEQMRAD8AuTvOefZbKw+N1mSAD3CynplbOxFGDsIiMwMr0S//2Q==",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1320,9 +2027,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 11018051,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIBAAAQQBBAMAAAAAAAAAAAAAAgABAwUEERITIQYHQf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhEDEQA/AKmR51d03Odo8ZcRsO0O9e1qcf2TWyQRmUUjEQs7tt+6IiMWTLQNJv/Z",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1333,9 +2047,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10319069,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIBAAAQMCBwAAAAAAAAAAAAAAAgABAwQFBhEUISNBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDe02JJ7sVRdYCLTiPFEXvaoivrHEBFAObizvsiIZUIX//Z",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1346,9 +2067,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10939454,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIG/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACAwQGEROR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAQUBAAAAAAAAAAAAAAAAAQACAxESIv/aAAwDAQACEQMRAD8A3cOSQ2XW5muL54jp4LdDfioGSWSAeGLpEQScuoKyAbbZX//Z",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1359,9 +2087,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9528724,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQACBAMREiEFBjEH/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDIUH/2gAMAwEAAhEDEQA/ANL5Ds06LMIqObjfFgA9OvVKd9Ek03Fhpi7TY6RELbXSmqqM1p//2Q==",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1372,9 +2107,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10288963,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIAAwQFERMhBjHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADESH/2gAMAwEAAhEDEQA/ANvYeaXo46Vdm5CArEHoHr7Lvn8wrsBdDQOvURAUlh2VvUoOZP/Z",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1385,9 +2127,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10781486,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHxAAAQMEAwEAAAAAAAAAAAAAAgABAwQFEyEGEVHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQEAAwADAAAAAAAAAAAAAAABAAIDBBEx/9oADAMBAAIRAxEAPwDc2C/17UuCOYiaOLsnLzX1Qyc5qBMhzSad2REN0sVGUTjZtk68n//Z",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1398,9 +2147,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 9571111,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIRAAAQQCAAcAAAAAAAAAAAAAAQADBBECBQYHEhQhItH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAhNR/9oADAMBAAIRAxEAPwDT7jiOXpJL5kS3O0Zyo9I8kqC5zSbDmQGwk1Zr0PxER64hWvGtcP/Z",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1411,9 +2167,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 11203345,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAeEAABAwQDAAAAAAAAAAAAAAABAAIEAwUREiFB8P/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRA//aAAwDAQACEQMRAD8Arosq5w59MRLg/R7tWsIwB7CuxfZgABDCe+ERDW6Gx3lUMn//2Q==",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1424,9 +2187,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10878731,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHxAAAQQCAgMAAAAAAAAAAAAAAgABAwQGEgUhIjEy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8A3GKc7fe88EVoiGMvLZvpldky+wMhDoPTu3pEQpryWtUAcn//2Q==",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1434,12 +2204,19 @@
     "filename": "L&V-413.jpg",
     "src": "/wedding_photos/L&V-413.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 15335416,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIABAMRBSEGE9H/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIBBQAAAAAAAAAAAAAAAAADAQIEISJR/9oADAMBAAIRAxEAPwCZi4OrxFKhWuYFbKx17FPZmiXwcOoZa+LTDY7H2Ig0uZ0qZbqxrB//2Q==",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1447,12 +2224,19 @@
     "filename": "L&V-414.jpg",
     "src": "/wedding_photos/L&V-414.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 14467175,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHBAAAQQDAQAAAAAAAAAAAAAAAgABAxEEEyEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIDBDH/2gAMAwEAAhEDEQA/AMom8+CXHradjylBPEBjJthcdEQV3u+ss0586ghP/9k=",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1460,25 +2244,39 @@
     "filename": "L&V-415.jpg",
     "src": "/wedding_photos/L&V-415.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12383649,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAAABQQDAAAAAAAAAAAAAAAAAQIEBQMGEUESE5H/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMSIUH/2gAMAwEAAhEDEQA/AI1vZrCChnq5JBOU8ckraTEv023ujW8AAe7WexziQKpryf/Z",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-417",
     "filename": "L&V-417.jpg",
     "src": "/wedding_photos/L&V-417.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4005,
+    "height": 6000,
+    "aspectRatio": 0.6675,
     "fileSize": 10874272,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHxAAAQIGAwAAAAAAAAAAAAAAAQADAgQFBhEhEzFR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRIf/aAAwDAQACEQMRAD8AwdKodpxtwB6We5cb8CsQ2zYJAJYm8nvSIhm1gc2Metecn//Z",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1489,9 +2287,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 13416716,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIBAAAQIFBQAAAAAAAAAAAAAAAQACBAcSFeEDFCExYf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAYEQADAQEAAAAAAAAAAAAAAAABAgMEAP/aAAwDAQACEQMRAD8Az/WldCXDasjnh1NXWFcScYQDcTz5hERltdEcqOZz4ZUmGYd//9k=",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1502,9 +2307,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 17017764,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIG/8QAHxAAAQMEAwEAAAAAAAAAAAAAAgABBAMFERIGByGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQEBAQEAAAAAAAAAAAAAAAECAAMR/9oADAMBAAIRAxEAPwDJRuro8WJXe5+sLtodMsKx4DbdWwZY+oiIW0o57wgB83//2Q==",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1515,9 +2327,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 13731819,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAIxAAAQMCBQUAAAAAAAAAAAAAAQACBAMRBQYHEzESFCEiYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAACAAEDMf/aAAwDAQACEQMRAD8AzHB8hQZ/cMMh4dFPVUNuW/FUdJK9U7lGW3af7MuPNjwiIL0RqOMyuz//2Q==",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1528,9 +2347,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 13344915,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIBAAAQIHAAMAAAAAAAAAAAAAAQADAgQFBxETMSFi0f/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAACAAED/9oADAMBAAIRAxEAPwDMqJbByrS2GX4RMOwbGgeYweqJtDXwSNkv49h9REevTMeZV//Z",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1541,9 +2367,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 14427538,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIAAyEEBQYREhMy/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAIDAAAAAAAAAAAAAAAAAAABAgMS/9oADAMBAAIRAxEAPwDI7+AbnSHo1a0rcF9vkrg9jOJFOC3MikuuR39RELbFlWkf/9k=",
     "category": "Reception",
     "description": "Reception dinner and speeches",
-    "tags": ["reception", "dining", "speeches", "evening", "celebration"],
+    "tags": [
+      "reception",
+      "dining",
+      "speeches",
+      "evening",
+      "celebration"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1554,9 +2387,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 12108653,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIBAAAgIBAwUAAAAAAAAAAAAAAQIDBQAEBxESEzFBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECEQP/2gAMAwEAAhEDEQA/AMjoNtbGztp9CXiR4ORIer38ys20t8s0iodOVDEA9weMYwunNYikc051n//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1567,9 +2407,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 14499840,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAfEAACAQMFAQAAAAAAAAAAAAABBAACAxEFBgchYfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAIf/aAAwDAQACEQMRAD8AiWnbfXebXRXqJZuEUZPQzKMOBXyASxaz97EQ2pnMid3/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1580,9 +2427,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 14284818,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAIRAAAAQGAwEAAAAAAAAAAAAAAAECAwQFBxESIRUxseH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAQADAQEAAAAAAAAAAAAAAAEAAgMRBP/aAAwDAQACEQMRAD8Ax0JSWXRqXCTMXW3EHbHHXggqksAlRlybmjt18AAJ3uPJRr5c06k//9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1593,9 +2447,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 11592655,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAIhAAAAUDBAMAAAAAAAAAAAAAAAECAwQFESEHEhciMUGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIDMf/aAAwDAQACEQMRAD8Ayil6YTKgUhpEhCX2D7X8CvHLCcLmK3Fg7F7+AAGtKRTGMvp//9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1606,9 +2467,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 8313746,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIRAAAQIEBwAAAAAAAAAAAAAAAwARAQIEBgUSExQxUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDFQ2sMtiRxUcz1WtlaPDKX2JupfURULH//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1619,9 +2487,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 15133750,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAhEAAABAUFAAAAAAAAAAAAAAAAAQIEAwUHERIGFCFBcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAARAAEDIv/aAAwDAQACEQMRAD8AtW9TlTTTrpw1bnDWhF/DEIVcJvDLDbQlY8XPsABZdLH2sCf/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1632,9 +2507,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 13530909,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAIBAAAQMDBQEAAAAAAAAAAAAAAQACAwQFIQYHFRcikv/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREAAgMBAAAAAAAAAAAAAAAAAgMABBEB/9oADAMBAAIRAxEAPwCNX7Q2mvrn3IVckDJT5iaMNCwem7Mc8lP8lERHOICzkoV64MHSn//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1645,9 +2527,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 13720555,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAIRAAAQMDBAMAAAAAAAAAAAAAAgABAwQHEQUSEyExkeH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAAIDAQAAAAAAAAAAAAAAAAIDAAEEEv/aAAwDAQACEQMRAD8AwNXaeEq4I4a54+XJAG3OG9KQrYALuz6h23Xj4iIDtJgfNSknItgdXP/Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1658,9 +2547,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 13617103,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAACAQQCAwAAAAAAAAAAAAABAgQAAwURByEyoeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECAxES/9oADAMBAAIRAxEAPwCTyXDkaTYWdjZ5txLg2iMvY9VLNxxbVipnnYOvH5SlGVstwa6Icpn/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1671,9 +2567,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10507533,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHBAAAQQDAQAAAAAAAAAAAAAAAQACAyEEBQYR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQADAAAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/AMc5jj8fa8znZ80zmTRnyMAV6oJ0rmkgixRtEQbOxFTJ/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1684,9 +2587,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10229874,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIABAMFBhEhIkH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAERAAL/2gAMAwEAAhEDEQA/AMV4vxqrsNNct23YMnrj6+GQ302UOwVgQD4iIVup5Ib/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1697,9 +2607,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 14928677,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAeEAACAgEFAQAAAAAAAAAAAAABAgADBAUGBxEhIv/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARUf/aAAwDAQACEQMRAD8Ak2yNL0q+/CXILvk2N9djwCVg8c7UsJdsV+29MRA7VAwL/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1710,9 +2627,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 16633463,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAQQBBQAAAAAAAAAAAAAAAQACAwQhBQdRofD/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECAyEx/9oADAMBAAIRAxEAPwCT3TqVddu2rjS6Ms7PiFjTqcgcRjB5REdcnwa6CWn/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1723,9 +2647,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 16800616,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEI/8QAJBAAAAMGBwEAAAAAAAAAAAAAAAIDAQUGEiEiBAcRExQyQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECAxH/2gAMAwEAAhEDEQA/AJmM+MPFkKo8EhkSJ3qsbSnwZ/VdJ908nWZul3gACzp8G3lKj//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1736,9 +2667,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 14054283,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEH/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIAAwQRBQchMf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADBBEh/9oADAMBAAIRAxEAPwDOOS6qNFoNWdpH9UEb8kTqTLZFYZteiN/IiH3aXQ+RSnHW46Z//9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1749,9 +2687,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10490725,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAjEAABAQUJAAAAAAAAAAAAAAABAAIDBAcRBQYSFSIjYZLR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAA//aAAwDAQACEQMRAD8AhoKURfXPEWX4zJ61tiumnKnDK23ASMUP2HqIidElMxL/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1762,9 +2707,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 10852938,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIDAAQFEQYHEjJh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhEDEQA/AMxi6ovIca9xkbhI5CfFFQ72ftTrcGyasQTDsHXtSlE9KGecn//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1775,9 +2727,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 18061826,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQI/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACAwQFEQgiMv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQMhEf/aAAwDAQACEQMRAD8As5BXYThq0ADg/wBg6WbTbfs9iiIp6LfGuH//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1788,9 +2747,16 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 16162041,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIG/8QAHxAAAAYBBQAAAAAAAAAAAAAAAAECAwQRBgUHEhMh/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMEESH/2gAMAwEAAhEDEQA/ANVi25M3UYTaUR0Leqj5eUYl3Ico7F06wRWdEAAt73B5Hq8Wthsz/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1801,48 +2767,76 @@
     "height": 4000,
     "aspectRatio": 1.5,
     "fileSize": 14877624,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAID/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIDBQAGESH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQIAIf/aAAwDAQACEQMRAD8Aq62yg2O6mlsKhJ0jUKpYeg5os2jBQDr6d57jGHaQzJkXu//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-503",
     "filename": "L&V-503.jpg",
     "src": "/wedding_photos/L&V-503.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4005,
+    "height": 6000,
+    "aspectRatio": 0.6675,
     "fileSize": 10762396,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAIhAAAQIDCQAAAAAAAAAAAAAAAAMEAgURBgcTFyFSVZHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhED/9oADAMBAAIRAxEAPwDE3f2Mls0ZLMnUNVVdMXb6pXyKY8op0AHFPBekpPD/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-507",
     "filename": "L&V-507.jpg",
     "src": "/wedding_photos/L&V-507.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4005,
+    "height": 6000,
+    "aspectRatio": 0.6675,
     "fileSize": 9987700,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHxAAAQQCAgMAAAAAAAAAAAAAAQACAwQFBgcRITFS/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/AMZputYGxiWVLsL5JbTS5knz0qRw9inAEZCYd+fRREfUk0Df/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
     "id": "L&V-511",
     "filename": "L&V-511.jpg",
     "src": "/wedding_photos/L&V-511.jpg",
-    "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "width": 4005,
+    "height": 6000,
+    "aspectRatio": 0.6675,
     "fileSize": 11597271,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHhAAAQMFAQEAAAAAAAAAAAAAAgABAwQFESFBBhL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAIDAAMAAAAAAAAAAAAAAAECAAQRAxJB/9oADAMBAAIRAxEAPwClYo7afnSqSAjkINO7dWceaoy/yQ45pERrHGgC4JRqMzdtPs//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1850,12 +2844,19 @@
     "filename": "L&V-512.jpg",
     "src": "/wedding_photos/L&V-512.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12626090,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQADBAUCBiEREv/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAZEQEAAwEBAAAAAAAAAAAAAAABAARBESH/2gAMAwEAAhEDEQA/AMjr1tV61rrDUVjMznsvCSOFXm3mkk/DfURG2/ETYpVOiOT/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1863,12 +2864,19 @@
     "filename": "L&V-513.jpg",
     "src": "/wedding_photos/L&V-513.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11415062,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIDAAQFBhESEyExYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEBAQEBAAAAAAAAAAAAAAABEQACA//aAAwDAQACEQMRAD8AzPXodbuca8c1q/ejB5YD39qI+Ax5ditxKF58DppSj7Ukz+YNpv/Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1876,12 +2884,19 @@
     "filename": "L&V-519.jpg",
     "src": "/wedding_photos/L&V-519.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 10523363,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHBAAAQUBAQEAAAAAAAAAAAAAAQACAwQFESJC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIDMf/aAAwDAQACEQMRAD8Aye7nYtnJm0Zo5WzWXcYR8lSRpU+n29ERBl2paf/Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1889,12 +2904,19 @@
     "filename": "L&V-530.jpg",
     "src": "/wedding_photos/L&V-530.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 9464117,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIBAAAQQCAQUAAAAAAAAAAAAAAQACAwQFERIGEyExQf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECERL/2gAMAwEAAhEDEQA/AMXqdO4zt1LFqaVsMriCANke1MsYigLEojsScA48dt+b8IiMt4VuV1iR/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1902,12 +2924,19 @@
     "filename": "L&V-531.jpg",
     "src": "/wedding_photos/L&V-531.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 10714548,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAfEAACAQQCAwAAAAAAAAAAAAABAgMABAURBjEHEhP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAIDAQAAAAAAAAAAAAAAAAADARExIf/aAAwDAQACEQMRAD8AkeD4/i8qskrxNEsZUaB7q72Xjvg5srcyY9i/zX2OuzqlKpfdBk1h/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1915,12 +2944,19 @@
     "filename": "L&V-535.jpg",
     "src": "/wedding_photos/L&V-535.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 9720996,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAQUAAQUAAAAAAAAAAAAAAQACAwURBgQTISJx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIhMv/aAAwDAQACEQMRAD8Ay3kNXTWFUbGJr4Z+57taPGaVNiHj4A09RvxERGynlM//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1928,12 +2964,19 @@
     "filename": "L&V-538.jpg",
     "src": "/wedding_photos/L&V-538.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 10248826,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIBAAAQQBBAMAAAAAAAAAAAAAAgABAwQFBhEWITEykf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECETH/2gAMAwEAAhEDEQA/AM/4xgM3XrFWY6ske4kzD7+VIT6biCeQWLoSdm+oiTwuUnOn/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1941,12 +2984,19 @@
     "filename": "L&V-542.jpg",
     "src": "/wedding_photos/L&V-542.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 9879647,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIAAxEEBRRRITHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABIQL/2gAMAwEAAhEDEQA/AMNq0OzmprcWsEGSvfv5J7cAsSqOFJ8DoREUG44f/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1954,12 +3004,19 @@
     "filename": "L&V-544.jpg",
     "src": "/wedding_photos/L&V-544.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12581918,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIDAAQFERIhBiIx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAECAAP/2gAMAwEAAhEDEQA/AM+wzWWDtrWKKLlHdgM3LvQ6qxSHwQopkx8hcjbep+0pRzgVc9boAN//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1967,12 +3024,19 @@
     "filename": "L&V-545.jpg",
     "src": "/wedding_photos/L&V-545.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 14164816,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHhAAAAYCAwAAAAAAAAAAAAAAAAECAwQFITEGERT/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhES/9oADAMBAAIRAxEAPwDP6y3i3Fm0qTBbU82jvOiFw+SRUmafIjGNAAB0lsGUMGupP//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1980,12 +3044,19 @@
     "filename": "L&V-552.jpg",
     "src": "/wedding_photos/L&V-552.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11900560,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAAwQFBiEREjH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIAAxH/2gAMAwEAAhEDEQA/AM6fhGvzdeuTX7oQO+/gkfZoMZbGUWN4BIiIZrW2LSpSNIn/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -1993,12 +3064,19 @@
     "filename": "L&V-553.jpg",
     "src": "/wedding_photos/L&V-553.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 15613257,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIBAAAgIBAwUAAAAAAAAAAAAAAQIAAxIEBQYHERMhMf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADERP/2gAMAwEAAhEDEQA/AI3aumS06ugeYZUkMzg/ZpKbbxhUVbNLk4HZjifZiIas9F1oywCtsWf/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2006,12 +3084,19 @@
     "filename": "L&V-556.jpg",
     "src": "/wedding_photos/L&V-556.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 13349954,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIAAwQFIQZx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAECAwAR/9oADAMBAAIRAxEAPwDK975OzCx2tYq+Q/bATwfJEnXoCQXMRAnRmHTnrNVPBv/Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2019,12 +3104,19 @@
     "filename": "L&V-558.jpg",
     "src": "/wedding_photos/L&V-558.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 13885450,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHhAAAQQBBQAAAAAAAAAAAAAAAQACAwUEEhUhMTL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMSIf/aAAwDAQACEQMRAD8AwdVQ4FAZHGMZWsch/QCiSzVJleduZ6KIhIxfpMpWKtZyon//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2032,12 +3124,19 @@
     "filename": "L&V-561.jpg",
     "src": "/wedding_photos/L&V-561.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11283995,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACAwQFESIxYf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8AyqTH45tSV8VNhsQu5b6Uo5MAkCjDoeoiKwbHqvIz/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2045,12 +3144,19 @@
     "filename": "L&V-562.jpg",
     "src": "/wedding_photos/L&V-562.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11742701,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHRAAAgMAAgMAAAAAAAAAAAAAAQMAAgUEEhMhMf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQEAAgMAAAAAAAAAAAAAAAABABECITH/2gAMAwEAAhEDEQA/AMrzl5mWi3L4CrloHWwv8IkNmuossfAPZMRChdxtx5P/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2058,12 +3164,19 @@
     "filename": "L&V-566.jpg",
     "src": "/wedding_photos/L&V-566.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 10988476,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQADBBECEhQhQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAAv/aAAwDAQACEQMRAD8AxGbFhtNcmS1kXNqIHv1T+Tp2NZmr6REeFSuXZGG//9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2071,12 +3184,19 @@
     "filename": "L&V-568.jpg",
     "src": "/wedding_photos/L&V-568.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 10940947,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAgMAAQUAAAAAAAAAAAAAAQIAAwQFESExM1H/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAFB/9oADAMBAAIRAxEAPwDFuf2ZbHr2YUdLm9vXwR8ku91ZYkV9iYiItx//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2084,12 +3204,19 @@
     "filename": "L&V-570.jpg",
     "src": "/wedding_photos/L&V-570.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 14070235,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAgICAgMAAAAAAAAAAAAAAQMAAgQFERITIUH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/AM30Otx1aNqapqyxPJ7/AASXbgYgbceAeiYiBD3SmpSSP//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2097,12 +3224,19 @@
     "filename": "L&V-576.jpg",
     "src": "/wedding_photos/L&V-576.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 16670788,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAeEAABAwQDAAAAAAAAAAAAAAADAAIEAQURMRIiJP/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIhUf/aAAwDAQACEQMRAD8AiXx410sBJRxNdIG7rnWFGOGHlXyj2iIk8H2sTP/Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2110,12 +3244,19 @@
     "filename": "L&V-577.jpg",
     "src": "/wedding_photos/L&V-577.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 8288895,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAQQCAwEAAAAAAAAAAAAAAgABAwUEEgYRITH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDKbjiNVXV0MJzSPmyDsxs3ihTxIhMm3Lx+viIiszb/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2123,12 +3264,19 @@
     "filename": "L&V-580.jpg",
     "src": "/wedding_photos/L&V-580.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 15493790,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAAYCAwEAAAAAAAAAAAAAAAECAwQFBhEUMTJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhMD/9oADAMBAAIRAxEAPwDPsWyKurK6bDYjKIl73voSL1xDN5Z8Bn0fwABZy7Yy6VnJ/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2136,12 +3284,19 @@
     "filename": "L&V-582.jpg",
     "src": "/wedding_photos/L&V-582.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 15351781,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHBAAAQQDAQAAAAAAAAAAAAAAAQADBBECBRIU/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAQACAwAAAAAAAAAAAAAAAAEAAgMRQf/aAAwDAQACEQMRAD8Az9yTEh6MRywC1zWQpRpw1hN+dERqnYvJbSE//9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2149,12 +3304,19 @@
     "filename": "L&V-584.jpg",
     "src": "/wedding_photos/L&V-584.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 15099833,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQUABAIDERUh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAMAAwAAAAAAAAAAAAAAAAABAgMRIf/aAAwDAQACEQMRAD8AkmVle0V2LjKuNuegcxHJnvoqj9C/HhiIEQtDvJVdZ//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2162,12 +3324,19 @@
     "filename": "L&V-586.jpg",
     "src": "/wedding_photos/L&V-586.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 14164475,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIBAAAQMCBwAAAAAAAAAAAAAAAgADBQEEBhESISQxQf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECAxL/2gAMAwEAAhEDEQA/AM/uSw/fQxyL7B1fI8g28UOb0TrLi17REMItKxn/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2175,12 +3344,19 @@
     "filename": "L&V-589.jpg",
     "src": "/wedding_photos/L&V-589.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 15201402,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAABAwQDAQAAAAAAAAAAAAABAAMEAgUGERITQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMhEf/aAAwDAQACEQMRAD8AhMpoayuLHlu0dTvHbgHihzZLeDovObHxEQFsbR2VRRW2kT//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2188,12 +3364,19 @@
     "filename": "L&V-591.jpg",
     "src": "/wedding_photos/L&V-591.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11430711,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHRAAAgEEAwAAAAAAAAAAAAAAAQIAAwQFERYhQf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIAAzH/2gAMAwEAAhEDEQA/AMh49jbzEpfh6gru+nXyQHwwDsFY631EQWcjJTXWraJ//9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2201,12 +3384,19 @@
     "filename": "L&V-602.jpg",
     "src": "/wedding_photos/L&V-602.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 9722789,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIAAwQGESEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABkRAAMAAwAAAAAAAAAAAAAAAAABEQIDIv/aAAwDAQACEQMRAD8AxG/WsdPl02m9zkuwDDngHZep03AalCbm6VBPkRHB1uhs5Sh//9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2214,12 +3404,19 @@
     "filename": "L&V-604.jpg",
     "src": "/wedding_photos/L&V-604.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 13399259,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIRAAAAUCBwAAAAAAAAAAAAAAAAECAwUEEwYSFCExMmH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEBAAMAAwAAAAAAAAAAAAAAAQACAxEhQf/aAAwDAQACEQMRAD8AzCNwzErk6VunuErJcUSuD8FB2gjUuLLRtbGZdQAFtZboxuXWYnvM/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2227,12 +3424,19 @@
     "filename": "L&V-607.jpg",
     "src": "/wedding_photos/L&V-607.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12821035,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHxAAAQQCAgMAAAAAAAAAAAAAAgABAxEEEgUGEzFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIRISL/2gAMAwEAAhEDEQA/AMwx+OwsZxI4BOSGPybP9dSD7FLs9FTX6pEQo9JKW2GZ/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2240,12 +3444,19 @@
     "filename": "L&V-609.jpg",
     "src": "/wedding_photos/L&V-609.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12340795,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIhAAAQMCBgMAAAAAAAAAAAAAAQACAwQFBhESFCEiQWGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADBBH/2gAMAwEAAhEDEQA/AIDHFHTXK9bNzDzm8S+SPazKohgjnkZoPVxb8KIjUerK6VC2ECf/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2253,12 +3464,19 @@
     "filename": "L&V-613.jpg",
     "src": "/wedding_photos/L&V-613.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 9743739,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAGxAAAgMBAQEAAAAAAAAAAAAAAQIAAwQFERL/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACIf/aAAwDAQACEQMRAD8Ax5cfH6e3RbZW9QPrD5ElbThSx1Fb+AkREcnIW//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2266,12 +3484,19 @@
     "filename": "L&V-621.jpg",
     "src": "/wedding_photos/L&V-621.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 13521697,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAgIABwAAAAAAAAAAAAAAAQIABAMGERMhI0H/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAAIDAAAAAAAAAAAAAAAAAAACASEx/9oADAMBAAIRAxEAPwCKzLhUb9Ahq421XQN6JmDVaIYjs4MRCYR5s//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2279,12 +3504,19 @@
     "filename": "L&V-626.jpg",
     "src": "/wedding_photos/L&V-626.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11447402,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAgEAAABQMFAAAAAAAAAAAAAAAAAQIEBQMSIQYWIzFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIDESH/2gAMAwEAAhEDEQA/AIfW8WiaYMJOqXO6XanwhPbSjywol3F3kAA6yuOoruf/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2292,12 +3524,19 @@
     "filename": "L&V-627.jpg",
     "src": "/wedding_photos/L&V-627.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11603933,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQACAwQFERIGBzFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAABAhEAA//aAAwDAQACEQMRAD8AzK/mk5PfYnT7CUkEj5qqhnWlO5jXMhh1IyM48REDuRNTy5qbd//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2305,12 +3544,19 @@
     "filename": "L&V-628.jpg",
     "src": "/wedding_photos/L&V-628.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11641520,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHxAAAQMDBQAAAAAAAAAAAAAAAQACAwUGEQQUMTJR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAAMBAQAAAAAAAAAAAAAAAAABIQIR/9oADAMBAAIRAxEAPwDIry1UdbqMc07CC7jHig21qe5oO4kGRnoiJzUPFT//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2318,12 +3564,19 @@
     "filename": "L&V-630.jpg",
     "src": "/wedding_photos/L&V-630.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12046361,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAeEAABAwQDAAAAAAAAAAAAAAACAAEDBAUGERMhYf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECETH/2gAMAwEAAhEDEQA/AIHPK6jvlJC0kRMTC3H4ylgx22OAuRyb12iIl6iiYnp//9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2331,12 +3584,19 @@
     "filename": "L&V-631.jpg",
     "src": "/wedding_photos/L&V-631.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12240725,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHRAAAgEEAwAAAAAAAAAAAAAAAQIAAwQFBhEhQf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwCY3RLbZcIl9WUhKfSL6BM5OJxQJHFWIiVIZt//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2344,12 +3604,19 @@
     "filename": "L&V-635.jpg",
     "src": "/wedding_photos/L&V-635.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11665919,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAHhAAAQMFAQEAAAAAAAAAAAAAAQACAwQGERJBBRP/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACIf/aAAwDAQACEQMRAD8Aye9I2epX/R7NdBgYPFOjZbgjaJKWYvAGxz1ERNMnJy//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2357,12 +3624,19 @@
     "filename": "L&V-636.jpg",
     "src": "/wedding_photos/L&V-636.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12319675,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHRAAAgIDAAMAAAAAAAAAAAAAAQIABAMFEgYVUf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AIrzHXVN/b9jaRlUNyQPkzfNU165siqr8hiBESYpvRtLh//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2370,12 +3644,19 @@
     "filename": "L&V-637.jpg",
     "src": "/wedding_photos/L&V-637.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11951533,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAQMEAwAAAAAAAAAAAAAAAgABBAMGESESMUH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAQEBAQAAAAAAAAAAAAAAAAIBACH/2gAMAwEAAhEDEQA/AIm+YsO5MzSAhq8chvxZg8ABd2cetIimXbmxOb//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2383,12 +3664,19 @@
     "filename": "L&V-638.jpg",
     "src": "/wedding_photos/L&V-638.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12422277,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAgICAQUAAAAAAAAAAAAAAQIAAwQGBRESIWHh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQJBcf/aAAwDAQACEQMRAD8Akd7pxNnqXOasqKh0Uepnpu19CVPH2kr4J7vsRGLJd6f/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2396,12 +3684,19 @@
     "filename": "L&V-641.jpg",
     "src": "/wedding_photos/L&V-641.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12249463,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHBAAAgMAAwEAAAAAAAAAAAAAAQIAAwQFBhFy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgAREv/aAAwDAQACEQMRAD8Ahe90Yey7m5Fg6mwep8zNbMWdbGCg+AkCIhmnqalweR3/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2409,12 +3704,19 @@
     "filename": "L&V-643.jpg",
     "src": "/wedding_photos/L&V-643.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 10444761,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAeEAABAwUBAQAAAAAAAAAAAAACAAEFAwQGESISYf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIDIf/aAAwDAQACEQMRAD8AmUjjkWOPV7isJDI748ty7fVPCthYnbSIjnZTsWtQeT//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2422,12 +3724,19 @@
     "filename": "L&V-644.jpg",
     "src": "/wedding_photos/L&V-644.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12235995,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIABAMRBgcVIVH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAQEAAwAAAAAAAAAAAAAAAAEAAhES/9oADAMBAAIRAxEAPwCE7CSpye75FUYA+hv5M1yUq65GChtAkCIhF2lRxORv/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2435,12 +3744,19 @@
     "filename": "L&V-650.jpg",
     "src": "/wedding_photos/L&V-650.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 13211184,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQACAwQFESEGEhUxQf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQADAQAAAAAAAAAAAAAAAAAAASEx/9oADAMBAAIRAxEAPwDPrRxu3QOpK5sZEjXZLc6A0rvzsg0yXDR6HX4iIrBqun//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2448,12 +3764,19 @@
     "filename": "L&V-652.jpg",
     "src": "/wedding_photos/L&V-652.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11843456,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACAwQGESExQf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8AjYKK2JNs2q8IMYjB36StjHlksrGyN4DwHAa62iJWE2s//9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2461,12 +3784,19 @@
     "filename": "L&V-653.jpg",
     "src": "/wedding_photos/L&V-653.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12597071,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAIBAAAQQCAQUAAAAAAAAAAAAAAgABAwQFEUESExUiUf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAwADAAAAAAAAAAAAAAAAAAECESEx/9oADAMBAAIRAxEAPwCBv4DGeHiIa7vHEPsO+fqzmWpW7h9IEw7fTb4REzwm1h6P/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2474,12 +3804,19 @@
     "filename": "L&V-655.jpg",
     "src": "/wedding_photos/L&V-655.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11795884,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQH/8QAHhAAAQQBBQAAAAAAAAAAAAAAAQACAwQhBQYREjH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABAjH/2gAMAwEAAhEDEQA/AMhh2xpzKjLUjpCQeegVAs12gNDcDHhRE0sSq1H/2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2487,12 +3824,19 @@
     "filename": "L&V-657.jpg",
     "src": "/wedding_photos/L&V-657.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12387440,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHxAAAAYDAAMAAAAAAAAAAAAAAAECAwQFERIhBhMx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAMAwEAAhEDEQA/AIVF4dSwK5mYUVMlC07Zc+kMo/Jp/c5iNgtj53nQAKDbdh//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2500,12 +3844,19 @@
     "filename": "L&V-658.jpg",
     "src": "/wedding_photos/L&V-658.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11235802,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAQQBBQEAAAAAAAAAAAAAAQACAwQFERIUITFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQADAAAAAAAAAAAAAAAAAAABAiH/2gAMAwEAAhEDEQA/AMxzdWrnTJZsQlk7Wbi5p9UPx6Q6LJNfqIlXQl//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2513,12 +3864,19 @@
     "filename": "L&V-659.jpg",
     "src": "/wedding_photos/L&V-659.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12523951,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIDBQAEBiFhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQEAAwADAAAAAAAAAAAAAAACAAEDETFB/9oADAMBAAIRAxEAPwCdm4vSchsNuy2I5AxUlh7mU7NVXJsyqssgCuQOvfmMYB0S1RvyPpkTiHXd8z//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2526,12 +3884,19 @@
     "filename": "L&V-662.jpg",
     "src": "/wedding_photos/L&V-662.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12179782,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAQMFAQEAAAAAAAAAAAAAAQACAwQFBhEhEjH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AJXKBFf8ddWXCHsT9N8np+LMzQ2vZ02QIiUf/9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2539,12 +3904,19 @@
     "filename": "L&V-664.jpg",
     "src": "/wedding_photos/L&V-664.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12968332,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHRAAAQUAAwEAAAAAAAAAAAAAAQACAwQFEiExQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBESEx/9oADAMBAAIRAxEAPwDMNUQbOSZpKrI5QPW/VDurVg4jg7pEReEads//2Q==",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2552,12 +3924,19 @@
     "filename": "L&V-672.jpg",
     "src": "/wedding_photos/L&V-672.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 11837807,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAfEAABAwQDAQAAAAAAAAAAAAABAAIDBAUGERMhMUH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAgEAMf/aAAwDAQACEQMRAD8Ah8lxqmuFILpNEDO92naPztQjrTA1xHH4deoiKVmZEXd//9k=",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2565,12 +3944,19 @@
     "filename": "L&V-678.jpg",
     "src": "/wedding_photos/L&V-678.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 12506655,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHxAAAgEDBQEAAAAAAAAAAAAAAgQAAQMRBhIVIUFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDESH/2gAMAwEAAhEDEQA/AMx1Sqg6oJ2VhAypndTqRnHJ+3Dz8iJNbbj0blksR//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2578,12 +3964,19 @@
     "filename": "L&V-682.jpg",
     "src": "/wedding_photos/L&V-682.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 10110122,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAYH/8QAHhAAAgIBBQEAAAAAAAAAAAAAAQIABAMFBhEjMZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDIdyV9Nt5MxdXSwACrDwiSho1+T2N8iI1Nf//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   },
   {
@@ -2591,12 +3984,19 @@
     "filename": "L&V-684.jpg",
     "src": "/wedding_photos/L&V-684.jpg",
     "width": 6000,
-    "height": 4000,
-    "aspectRatio": 1.5,
+    "height": 4005,
+    "aspectRatio": 1.4981273408239701,
     "fileSize": 13550319,
+    "blurDataURL": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAeEAABBAEFAAAAAAAAAAAAAAABAAIEBREDFTFBof/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIDUf/aAAwDAQACEQMRAD8AgLGgjTaiZYSWkPcc4B4KhNm0x16iIc9GwrF1oVQOT//Z",
     "category": "Party",
     "description": "Dancing and late-night celebration",
-    "tags": ["dancing", "party", "celebration", "night", "fun"],
+    "tags": [
+      "dancing",
+      "party",
+      "celebration",
+      "night",
+      "fun"
+    ],
     "location": "Majestic Mirage, Punta Cana"
   }
 ]

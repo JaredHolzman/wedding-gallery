@@ -41,7 +41,6 @@ export function PhotoCard({ photo, onClick, onDownload }: PhotoCardProps) {
           <Image
             src={photo.src}
             alt={`Wedding photo ${photo.id}`}
-            fill
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className={cn(
               "object-cover transition-all duration-500 ease-out",
@@ -51,7 +50,8 @@ export function PhotoCard({ photo, onClick, onDownload }: PhotoCardProps) {
             onLoad={() => setIsLoaded(true)}
             quality={85}
             placeholder="blur"
-            blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAhEAACAQQDAAMAAAAAAAAAAAABAgMABAUREiExQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIRMUH/2gAMAwEAAhEDEQA/AKXIYu1vYQs8YZh52dA2DrvRBoexUWTn4IudlbvFK+yjbLse6IJPn3REzgaKD6qyOJxEElvqrOe0TaMf/9k="
+            blurDataURL={photo.blurDataURL}
+            fill
           />
         )}
 
